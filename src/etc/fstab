@@ -1,0 +1,6 @@
+# /dev/sdb2
+UUID=2f83786d-f137-4265-a270-b2f5a26631a7	/         	ext4      	rw,nodiratime,discard	0 1
+
+# /dev/sdb1 LABEL=ESP
+UUID=9254-055A      	/boot     	vfat      	rw,noatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro	0 2
+
