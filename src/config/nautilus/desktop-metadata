@@ -1,0 +1,34 @@
+[directory]
+nautilus-icon-view-keep-aligned=false
+nautilus-icon-view-layout-timestamp=1518827506
+nautilus-desktop-icon-size=64
+
+[home]
+nautilus-icon-position-timestamp=1518827506
+nautilus-icon-position=56,26
+icon-scale=1
+
+[trash]
+nautilus-icon-position-timestamp=1518827506
+nautilus-icon-position=52,142
+icon-scale=1
+
+[1tbdisk on 192.168.0.78.volume]
+nautilus-icon-position=56,306
+icon-scale=1
+nautilus-icon-position-timestamp=1505576868
+
+[A0001.volume]
+nautilus-icon-position=56,326
+icon-scale=1
+nautilus-icon-position-timestamp=1512606883
+
+[iPhone.volume]
+nautilus-icon-position=56,466
+icon-scale=1
+nautilus-icon-position-timestamp=1514035193
+
+[Documents on iPhone.volume]
+nautilus-icon-position=56,326
+icon-scale=1
+nautilus-icon-position-timestamp=1514035193

@@ -1,0 +1,109 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+Xcursor.theme: ArchCursorTheme
+
+! urL-yanking 
+URxvt.perl-ext-common: default,url-select,resize-font
+
+URxvt.colorUL: #98971a
+URxvt.matcher.button: 1
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.url-select.underline: true
+URxvt.url-select.launcher: /usr/bin/xdg-open
+URxvt.keysym.M-u: perl:url-select:select_next
+
+! Needs to be disabled for C-S keybindings to work 
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+rofi.combi-modi: window,drun,ssh
+rofi.theme: solarized
+!rofi.font:	hack 10
+rofi.modi:	combi
+
+! Enable the extended coloring options
+rofi.color-enabled: true
+!                  bg       border   separator
+rofi.color-window: #282828, #a89984, #a89984
+!                  bg       fg       bg-alt   hl-bg    hl-fg
+rofi.color-normal: #282828, #ebdbb2, #32302f, #665c54, #fbf1c7
+rofi.color-active: #d79921, #282828, #d79921, #fabd2f, #282828
+rofi.color-urgent: #cc241d, #282828, #cc241d, #fb4934, #282828
+
+rofi.separator-style: solid
+rofi.sidebar-mode: true
+rofi.bw: 1
+rofi.columns: 1
+rofi.padding: 16
+
+rofi.yoffset: 0
+rofi.fake-transparency: false
+rofi.location: 0
+rofi.width: 50
+rofi.font: Hasklig 12
+rofi.lines: 15
+rofi.fixed-num-lines: true
+
+
+!-------------------------------------------------------------------------------
+! URxvt settings
+! Colours lifted from Solarized (http://ethanschoonover.com/solarized)
+! More info at:
+! http://pod.tst.eu/http://cvs.schmorp.de/rxvt-unicode/doc/rxvt.1.pod
+!-------------------------------------------------------------------------------
+
+URxvt.depth:                32
+URxvt.transparent:          false
+URxvt.fading:               0
+URxvt.loginShell:           true
+URxvt.saveLines:            200
+URxvt.internalBorder:       0
+URxvt.lineSpace:            0
+
+! Fonts
+URxvt.allow_bold:           false
+URxvt*font: xft:Ubuntu Mono:style=Regular:pixelsize=20
+URxvt*boldFont: xft:Ubuntu Mono:style=Bold:pixelsize=20
+
+! Fix font space
+URxvt*letterSpace: -1
+
+! Scrollbar
+URxvt.scrollBar:            false
+
+! Perl extensions
+! URxvt.url-launcher:          firefox
+
+
+URxvt*cursorColor:                      #d1d4e0
+URxvt*scrollColor:                      #d1d4e0
+URxvt*highlightColor:                   #252936
+URxvt*highlightTextColor:               #C0C5CE
+
+urxvt.foreground:                       #aaaaaa
+urxvt.background:                       #000000
+
+URxvt.color0:                           #002B36
+URxvt.color1:                           #DC322F
+URxvt.color2:                           #069900
+URxvt.color3:                           #D6D30A
+URxvt.color4:                           #2075b1
+URxvt.color5:                           #6647ad
+URxvt.color6:                           #2AA198
+URxvt.color7:                           #ffffff
+URxvt.color8:                           #035A70
+URxvt.color9:                           #CB4B16
+
+URxvt.color10:                          #07e000
+URxvt.color11:                          #f3f00b
+URxvt.color12:                          #2b90d8
+URxvt.color13:                          #7c5fbd
+URxvt.color14:                          #29b9ae
+URxvt.color15:                          #ffffff
+
