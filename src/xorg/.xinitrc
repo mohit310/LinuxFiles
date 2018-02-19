@@ -9,6 +9,7 @@
 #xrandr --auto
 
 xdg-user-dirs-update &
+dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
 

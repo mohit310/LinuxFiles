@@ -1,1 +1,0 @@
-../idea/bin/idea.sh
