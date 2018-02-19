@@ -22,33 +22,33 @@ URxvt.keysym.M-u: perl:url-select:select_next
 URxvt.iso14755: false
 URxvt.iso14755_52: false
 
-rofi.combi-modi: window,drun,ssh
-rofi.theme: solarized
-!rofi.font:	hack 10
-rofi.modi:	combi
+!rofi.combi-modi: window,drun,ssh
+!rofi.theme: solarized
+!!rofi.font:	hack 10
+!rofi.modi:	combi
 
 ! Enable the extended coloring options
-rofi.color-enabled: true
+!rofi.color-enabled: true
 !                  bg       border   separator
-rofi.color-window: #282828, #a89984, #a89984
+!rofi.color-window: #282828, #a89984, #a89984
 !                  bg       fg       bg-alt   hl-bg    hl-fg
-rofi.color-normal: #282828, #ebdbb2, #32302f, #665c54, #fbf1c7
-rofi.color-active: #d79921, #282828, #d79921, #fabd2f, #282828
-rofi.color-urgent: #cc241d, #282828, #cc241d, #fb4934, #282828
+!rofi.color-normal: #282828, #ebdbb2, #32302f, #665c54, #fbf1c7
+!rofi.color-active: #d79921, #282828, #d79921, #fabd2f, #282828
+!rofi.color-urgent: #cc241d, #282828, #cc241d, #fb4934, #282828
 
-rofi.separator-style: solid
-rofi.sidebar-mode: true
-rofi.bw: 1
-rofi.columns: 1
-rofi.padding: 16
+!rofi.separator-style: solid
+!rofi.sidebar-mode: true
+!rofi.bw: 1
+!rofi.columns: 1
+!rofi.padding: 16
 
-rofi.yoffset: 0
-rofi.fake-transparency: false
-rofi.location: 0
-rofi.width: 50
-rofi.font: Hasklig 12
-rofi.lines: 15
-rofi.fixed-num-lines: true
+!rofi.yoffset: 0
+!rofi.fake-transparency: false
+!rofi.location: 0
+!rofi.width: 50
+!rofi.font: Hasklig 12
+!rofi.lines: 15
+!rofi.fixed-num-lines: true
 
 
 !-------------------------------------------------------------------------------
@@ -68,11 +68,11 @@ URxvt.lineSpace:            0
 
 ! Fonts
 URxvt.allow_bold:           false
-URxvt*font: xft:Ubuntu Mono:style=Regular:pixelsize=20
+URxvt*font: xft:Ubuntu Mono:style=Regular:pixelsize=20,xft:FontAwesome:style=Regular:pixelSize=20
 URxvt*boldFont: xft:Ubuntu Mono:style=Bold:pixelsize=20
 
 ! Fix font space
-URxvt*letterSpace: -1
+URxvt*letterSpace: 1
 
 ! Scrollbar
 URxvt.scrollBar:            false
