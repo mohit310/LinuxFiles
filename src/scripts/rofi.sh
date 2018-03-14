@@ -10,4 +10,4 @@
 		 -color-urgent "#222222, #b1b4b3, #222222, #77003d, #b1b4b3" \
 		 -kb-row-select "Tab" -kb-row-tab ""
 
-rofi -combi-modi window,drun,ssh -theme solarized -font "DejaVu Sans Mono:style=Bold 10" -show combi
+rofi -combi-modi window,drun,run -theme Arc-Dark -font "Ubuntu Mono:style=Bold:antialias=true 10" -show combi
