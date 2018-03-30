@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<libgda-config>
+    <section path="/apps/libgda/Datasources/SalesTest">
+        <entry name="DSN" type="string" value="DB_DIR=/home/mk/.local/share/libgda;DB_NAME=sales_test.db"/>
+        <entry name="Description" type="string" value="Test database for a sales department"/>
+        <entry name="Provider" type="string" value="SQLite"/>
+    </section>
+</libgda-config>

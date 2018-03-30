@@ -1,0 +1,846 @@
+(N) 2017-12-04T21:37:50 - qBittorrent v4.0.2 started
+(I) 2017-12-04T21:37:53 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2017-12-04T21:37:53 - Peer ID: -qB4020-
+(N) 2017-12-04T21:37:53 - HTTP User-Agent is 'qBittorrent/4.0.2'
+(I) 2017-12-04T21:37:53 - DHT support [ON]
+(I) 2017-12-04T21:37:53 - Local Peer Discovery support [ON]
+(I) 2017-12-04T21:37:53 - PeX support [ON]
+(I) 2017-12-04T21:37:53 - Anonymous mode [OFF]
+(I) 2017-12-04T21:37:53 - Encryption support [ON]
+(I) 2017-12-04T21:37:53 - Embedded Tracker [OFF]
+(I) 2017-12-04T21:37:53 - UPnP / NAT-PMP support [ON]
+(W) 2017-12-04T21:37:53 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2017-12-04T21:37:53 - Options were saved successfully.
+(I) 2017-12-04T21:37:53 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2017-12-04T21:37:53 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2017-12-04T21:37:53 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2017-12-04T21:37:53 - External IP: 107.170.130.86
+(I) 2017-12-04T21:37:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2017-12-04T21:37:54 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Mon Nov 6 14:14:59 2017.
+(I) 2017-12-04T21:37:54 - Successfully updated GeoIP database.
+(I) 2017-12-04T21:37:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(I) 2017-12-04T21:38:34 - Encryption support [FORCED]
+(N) 2017-12-04T21:38:34 - Options were saved successfully.
+(N) 2017-12-04T21:41:28 - Options were saved successfully.
+(C) 2017-12-04T21:41:28 - IP filter line 2 is malformed.
+(C) 2017-12-04T21:41:29 - IP filter line 236807 is malformed.
+(C) 2017-12-04T21:41:29 - IP filter line 320112 is malformed.
+(C) 2017-12-04T21:41:29 - IP filter line 338265 is malformed.
+(C) 2017-12-04T21:41:29 - IP filter line 386475 is malformed.
+(C) 2017-12-04T21:41:29 - 13 extra IP filter parsing errors occurred.
+(N) 2017-12-04T21:41:29 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2017-12-04T21:41:43 - 'The.Foreigner.2017.720p.HC.HDRip.900MB' added to download list.
+(N) 2017-12-04T21:42:25 - qBittorrent v4.0.2 started
+(N) 2017-12-04T21:42:28 - 'Golmaal Again (2017) 1-3 DVDRip - x264 AC3 5.1 ESub - DTOne Exclusive' added to download list.
+(N) 2017-12-04T21:42:52 - qBittorrent v4.0.2 started
+(N) 2017-12-04T21:42:56 - 'Patel Ki Punjabi Shaadi (2017) 1-3 DVDRip - x264 AC3 5.1 ESub - DTOne Exclusive' added to download list.
+(N) 2017-12-04T21:45:51 - 'The.Foreigner.2017.720p.HC.HDRip.900MB.MkvCage.mkv' was removed from the transfer list.
+(N) 2017-12-04T21:46:33 - 'Golmaal Again (2017) 1-3 DVDRip - x264 AC3 5.1 ESub - DTOne Exclusive' was removed from the transfer list and hard disk.
+(N) 2017-12-04T21:46:33 - 'Patel Ki Punjabi Shaadi (2017) 1-3 DVDRip - x264 AC3 5.1 ESub - DTOne Exclusive' was removed from the transfer list and hard disk.
+(N) 2017-12-04T21:49:55 - qBittorrent v4.0.2 started
+(N) 2017-12-04T21:49:57 - 'Tie The Knot (2016) - 720p - WebDL - AVC - AAC - ESub [DDR].mkv' added to download list.
+(N) 2017-12-04T21:50:33 - qBittorrent v4.0.2 started
+(N) 2017-12-04T21:50:35 - '10 Jio MAMI Short Films (2017) - 720p WEBHD ESub Multi Lingual - DTOne' added to download list.
+(I) 2017-12-04T21:56:23 - UPnP / NAT-PMP support [OFF]
+(N) 2017-12-06T19:16:35 - qBittorrent v4.0.2 started
+(I) 2017-12-06T19:16:35 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2017-12-06T19:16:35 - Peer ID: -qB4020-
+(N) 2017-12-06T19:16:35 - HTTP User-Agent is 'qBittorrent/4.0.2'
+(I) 2017-12-06T19:16:35 - DHT support [ON]
+(I) 2017-12-06T19:16:35 - Local Peer Discovery support [ON]
+(I) 2017-12-06T19:16:35 - PeX support [ON]
+(I) 2017-12-06T19:16:35 - Anonymous mode [OFF]
+(I) 2017-12-06T19:16:35 - Encryption support [FORCED]
+(I) 2017-12-06T19:16:35 - Embedded Tracker [OFF]
+(I) 2017-12-06T19:16:35 - UPnP / NAT-PMP support [ON]
+(I) 2017-12-06T19:16:35 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Mon Nov 6 14:14:59 2017.
+(N) 2017-12-06T19:16:35 - Options were saved successfully.
+(I) 2017-12-06T19:16:35 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2017-12-06T19:16:35 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2017-12-06T19:16:35 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2017-12-06T19:16:35 - External IP: 107.170.130.86
+(N) 2017-12-06T19:16:35 - 'Tie The Knot (2016) - 720p - WebDL - AVC - AAC - ESub [DDR].mkv' resumed. (fast resume)
+(N) 2017-12-06T19:16:35 - '10 Jio MAMI Short Films (2017) - 720p WEBHD ESub Multi Lingual - DTOne' resumed. (fast resume)
+(C) 2017-12-06T19:16:35 - IP filter line 2 is malformed.
+(C) 2017-12-06T19:16:35 - IP filter line 236807 is malformed.
+(I) 2017-12-06T19:16:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2017-12-06T19:16:35 - IP filter line 320112 is malformed.
+(C) 2017-12-06T19:16:35 - IP filter line 338265 is malformed.
+(C) 2017-12-06T19:16:35 - IP filter line 386475 is malformed.
+(I) 2017-12-06T19:16:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2017-12-06T19:16:35 - 13 extra IP filter parsing errors occurred.
+(N) 2017-12-06T19:16:36 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2017-12-06T19:16:36 - 'Tiger Zinda Hai (2017) - Swag Se Swagat - Saavn WEB-DL - Audio MP3 - Madhu.mp3' added to download list.
+(I) 2017-12-06T19:16:41 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Dec 6 14:48:19 2017.
+(I) 2017-12-06T19:16:41 - Successfully updated GeoIP database.
+(N) 2017-12-06T19:19:01 - 'Billboard Hot 100 Singles Chart (11.11.2017) (Mp3 320kbps)' added to download list.
+(N) 2017-12-06T19:27:34 - 'Billboard Hot 100 Singles Chart (11.11.2017) (Mp3 320kbps) [Hunter]' was removed from the transfer list.
+(N) 2017-12-06T19:27:40 - '10 Jio MAMI Short Films (2017) - 720p WEBHD ESub Multi Lingual - DTOne' was removed from the transfer list.
+(N) 2017-12-06T19:27:40 - 'Tie The Knot (2016) - 720p - WebDL - AVC - AAC - ESub [DDR].mkv' was removed from the transfer list.
+(N) 2017-12-06T19:27:40 - 'Tiger Zinda Hai (2017) - Swag Se Swagat - Saavn WEB-DL - Audio MP3 - Madhu.mp3' was removed from the transfer list.
+(I) 2017-12-06T19:27:42 - UPnP / NAT-PMP support [OFF]
+(N) 2017-12-06T19:32:59 - qBittorrent v4.0.2 started
+(I) 2017-12-06T19:32:59 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2017-12-06T19:32:59 - Peer ID: -qB4020-
+(N) 2017-12-06T19:32:59 - HTTP User-Agent is 'qBittorrent/4.0.2'
+(I) 2017-12-06T19:32:59 - DHT support [ON]
+(I) 2017-12-06T19:32:59 - Local Peer Discovery support [ON]
+(I) 2017-12-06T19:32:59 - PeX support [ON]
+(I) 2017-12-06T19:32:59 - Anonymous mode [OFF]
+(I) 2017-12-06T19:32:59 - Encryption support [FORCED]
+(I) 2017-12-06T19:32:59 - Embedded Tracker [OFF]
+(I) 2017-12-06T19:32:59 - UPnP / NAT-PMP support [ON]
+(I) 2017-12-06T19:32:59 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Dec 6 14:48:19 2017.
+(N) 2017-12-06T19:32:59 - Options were saved successfully.
+(I) 2017-12-06T19:32:59 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2017-12-06T19:32:59 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2017-12-06T19:32:59 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2017-12-06T19:32:59 - IP filter line 2 is malformed.
+(C) 2017-12-06T19:32:59 - IP filter line 236807 is malformed.
+(C) 2017-12-06T19:32:59 - IP filter line 320112 is malformed.
+(C) 2017-12-06T19:32:59 - IP filter line 338265 is malformed.
+(C) 2017-12-06T19:32:59 - IP filter line 386475 is malformed.
+(I) 2017-12-06T19:32:59 - External IP: 207.38.145.228
+(I) 2017-12-06T19:32:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2017-12-06T19:33:00 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2017-12-06T19:33:00 - 13 extra IP filter parsing errors occurred.
+(N) 2017-12-06T19:33:00 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2017-12-06T19:33:01 - 'Tiger Zinda Hai (2017) - Swag Se Swagat - Saavn WEB-DL - Audio MP3 - Madhu.mp3' added to download list.
+(N) 2017-12-06T19:33:36 - qBittorrent v4.0.2 started
+(N) 2017-12-06T19:33:37 - 'Bhoomi[2017-iTunes-M4A] - [DDR]' added to download list.
+(N) 2017-12-06T19:33:48 - 'Tiger Zinda Hai (2017) - Swag Se Swagat - Saavn WEB-DL - Audio MP3 - Madhu.mp3' was removed from the transfer list and hard disk.
+(N) 2017-12-06T19:34:05 - 'Bhoomi[2017-iTunes-M4A] - [DDR]' was removed from the transfer list.
+(I) 2017-12-06T19:34:07 - UPnP / NAT-PMP support [OFF]
+(N) 2017-12-06T20:01:34 - qBittorrent v4.0.2 started
+(I) 2017-12-06T20:01:34 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2017-12-06T20:01:34 - Peer ID: -qB4020-
+(N) 2017-12-06T20:01:34 - HTTP User-Agent is 'qBittorrent/4.0.2'
+(I) 2017-12-06T20:01:34 - DHT support [ON]
+(I) 2017-12-06T20:01:34 - Local Peer Discovery support [ON]
+(I) 2017-12-06T20:01:34 - PeX support [ON]
+(I) 2017-12-06T20:01:34 - Anonymous mode [OFF]
+(I) 2017-12-06T20:01:34 - Encryption support [FORCED]
+(I) 2017-12-06T20:01:34 - Embedded Tracker [OFF]
+(I) 2017-12-06T20:01:34 - UPnP / NAT-PMP support [ON]
+(I) 2017-12-06T20:01:34 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Dec 6 14:48:19 2017.
+(N) 2017-12-06T20:01:34 - Options were saved successfully.
+(I) 2017-12-06T20:01:34 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2017-12-06T20:01:34 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2017-12-06T20:01:34 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2017-12-06T20:01:34 - IP filter line 2 is malformed.
+(I) 2017-12-06T20:01:34 - External IP: 107.170.130.86
+(C) 2017-12-06T20:01:34 - IP filter line 236807 is malformed.
+(C) 2017-12-06T20:01:34 - IP filter line 320112 is malformed.
+(C) 2017-12-06T20:01:34 - IP filter line 338265 is malformed.
+(C) 2017-12-06T20:01:34 - IP filter line 386475 is malformed.
+(I) 2017-12-06T20:01:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2017-12-06T20:01:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2017-12-06T20:01:34 - 13 extra IP filter parsing errors occurred.
+(N) 2017-12-06T20:01:35 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2017-12-06T20:01:49 - 'Kingsman- The Golden Circle (2017) [720p] English' added to download list.
+(N) 2017-12-06T20:09:21 - 'Kingsman The Golden Circle (2017) [YTS.AG]' was removed from the transfer list.
+(I) 2017-12-06T20:09:23 - UPnP / NAT-PMP support [OFF]
+(N) 2017-12-25T11:58:05 - qBittorrent v4.0.3 started
+(I) 2017-12-25T11:58:05 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2017-12-25T11:58:05 - Peer ID: -qB4030-
+(N) 2017-12-25T11:58:05 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2017-12-25T11:58:05 - DHT support [ON]
+(I) 2017-12-25T11:58:05 - Local Peer Discovery support [ON]
+(I) 2017-12-25T11:58:05 - PeX support [ON]
+(I) 2017-12-25T11:58:05 - Anonymous mode [OFF]
+(I) 2017-12-25T11:58:05 - Encryption support [FORCED]
+(I) 2017-12-25T11:58:05 - Embedded Tracker [OFF]
+(I) 2017-12-25T11:58:05 - UPnP / NAT-PMP support [ON]
+(I) 2017-12-25T11:58:05 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Dec 6 14:48:19 2017.
+(N) 2017-12-25T11:58:05 - Options were saved successfully.
+(I) 2017-12-25T11:58:05 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2017-12-25T11:58:05 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2017-12-25T11:58:05 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2017-12-25T11:58:05 - IP filter line 2 is malformed.
+(C) 2017-12-25T11:58:05 - IP filter line 236807 is malformed.
+(C) 2017-12-25T11:58:05 - IP filter line 320112 is malformed.
+(C) 2017-12-25T11:58:05 - IP filter line 338265 is malformed.
+(C) 2017-12-25T11:58:05 - IP filter line 386475 is malformed.
+(I) 2017-12-25T11:58:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2017-12-25T11:58:06 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2017-12-25T11:58:06 - 13 extra IP filter parsing errors occurred.
+(N) 2017-12-25T11:58:06 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(I) 2017-12-25T11:58:08 - External IP: 107.170.130.86
+(N) 2017-12-25T11:58:17 - '1f1990d4811adec0501fc91a05371a4315ae7930' added to download list.
+(N) 2017-12-25T12:00:05 - 'Ittefaq (2017) Hindi - HDRip - AVC - AAC - MovCR Exclusive' added to download list.
+(N) 2017-12-25T13:01:19 - 'Movie.2017.HD-TS x264 -CPG.zip' was removed from the transfer list.
+(N) 2018-01-14T16:50:05 - qBittorrent v4.0.3 started
+(I) 2018-01-14T16:50:05 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-14T16:50:05 - Peer ID: -qB4030-
+(N) 2018-01-14T16:50:05 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-14T16:50:05 - DHT support [ON]
+(I) 2018-01-14T16:50:05 - Local Peer Discovery support [ON]
+(I) 2018-01-14T16:50:05 - PeX support [ON]
+(I) 2018-01-14T16:50:05 - Anonymous mode [OFF]
+(I) 2018-01-14T16:50:05 - Encryption support [FORCED]
+(I) 2018-01-14T16:50:05 - Embedded Tracker [OFF]
+(I) 2018-01-14T16:50:05 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-14T16:50:05 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Dec 6 14:48:19 2017.
+(N) 2018-01-14T16:50:06 - Options were saved successfully.
+(I) 2018-01-14T16:50:06 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-14T16:50:06 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-14T16:50:06 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(N) 2018-01-14T16:50:06 - '[movcr.com] Ittefaq (2017) Hindi - HDRip - AVC - AAC - MovCR Exclusive.mkv' resumed. (fast resume)
+(C) 2018-01-14T16:50:05 - IP filter line 2 is malformed.
+(C) 2018-01-14T16:50:06 - IP filter line 236807 is malformed.
+(I) 2018-01-14T16:50:06 - External IP: 207.38.145.228
+(I) 2018-01-14T16:50:06 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-14T16:50:06 - IP filter line 320112 is malformed.
+(C) 2018-01-14T16:50:06 - IP filter line 338265 is malformed.
+(C) 2018-01-14T16:50:06 - IP filter line 386475 is malformed.
+(I) 2018-01-14T16:50:06 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(I) 2018-01-14T16:50:06 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(I) 2018-01-14T16:50:06 - Successfully updated GeoIP database.
+(C) 2018-01-14T16:50:06 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-14T16:50:07 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(I) 2018-01-14T16:50:11 - External IP: 104.236.40.58
+(N) 2018-01-14T16:53:53 - 'Ittefaq 2017 Hindi 720p DVDRip x264 ESubs DD 5.1 3GB - LOKI - M2' added to download list.
+(N) 2018-01-14T16:54:30 - '[movcr.com] Ittefaq (2017) Hindi - HDRip - AVC - AAC - MovCR Exclusive.mkv' was removed from the transfer list and hard disk.
+(N) 2018-01-14T16:54:30 - 'Ittefaq 2017 Hindi 720p DVDRip x264 ESubs DD 5.1 3GB - LOKI - M2Tv' was removed from the transfer list and hard disk.
+(I) 2018-01-14T16:55:09 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-14T16:56:48 - qBittorrent v4.0.3 started
+(I) 2018-01-14T16:56:48 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-14T16:56:48 - Peer ID: -qB4030-
+(N) 2018-01-14T16:56:48 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-14T16:56:48 - DHT support [ON]
+(I) 2018-01-14T16:56:48 - Local Peer Discovery support [ON]
+(I) 2018-01-14T16:56:48 - PeX support [ON]
+(I) 2018-01-14T16:56:48 - Anonymous mode [OFF]
+(I) 2018-01-14T16:56:48 - Encryption support [FORCED]
+(I) 2018-01-14T16:56:48 - Embedded Tracker [OFF]
+(I) 2018-01-14T16:56:48 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-14T16:56:48 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-14T16:56:48 - Options were saved successfully.
+(I) 2018-01-14T16:56:48 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-14T16:56:48 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-14T16:56:48 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-14T16:56:48 - External IP: 104.236.40.58
+(C) 2018-01-14T16:56:48 - IP filter line 2 is malformed.
+(C) 2018-01-14T16:56:48 - IP filter line 236807 is malformed.
+(C) 2018-01-14T16:56:48 - IP filter line 320112 is malformed.
+(C) 2018-01-14T16:56:48 - IP filter line 338265 is malformed.
+(C) 2018-01-14T16:56:48 - IP filter line 386475 is malformed.
+(I) 2018-01-14T16:56:49 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2018-01-14T16:56:49 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-14T16:56:49 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-14T16:56:49 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-14T16:56:54 - '1921 2018 Hindi Movies PDVDRip x264 Clean Audio AAC New +Sample ' added to download list.
+(N) 2018-01-14T17:00:26 - 'Kaashmora 2 Hindi Dubbed (Aayirathil Oruvan) 720p 2017 ' added to download list.
+(I) 2018-01-14T17:12:24 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-15T01:52:40 - qBittorrent v4.0.3 started
+(I) 2018-01-15T01:52:40 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-15T01:52:40 - Peer ID: -qB4030-
+(N) 2018-01-15T01:52:40 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-15T01:52:40 - DHT support [ON]
+(I) 2018-01-15T01:52:40 - Local Peer Discovery support [ON]
+(I) 2018-01-15T01:52:40 - PeX support [ON]
+(I) 2018-01-15T01:52:40 - Anonymous mode [OFF]
+(I) 2018-01-15T01:52:40 - Encryption support [FORCED]
+(I) 2018-01-15T01:52:40 - Embedded Tracker [OFF]
+(I) 2018-01-15T01:52:40 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-15T01:52:40 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-15T01:52:40 - Options were saved successfully.
+(I) 2018-01-15T01:52:40 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-15T01:52:40 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-15T01:52:40 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-15T01:52:40 - External IP: 104.236.40.58
+(N) 2018-01-15T01:52:40 - '1921 2018 Hindi Movies PDVDRip x264 Clean Audio AAC with Sample ☻rDX☻' resumed. (fast resume)
+(N) 2018-01-15T01:52:40 - 'Kaashmora 2 Hindi Dubbed (Aayirathil Oruvan) 720p 2017 ' resumed. (fast resume)
+(C) 2018-01-15T01:52:40 - IP filter line 2 is malformed.
+(C) 2018-01-15T01:52:40 - IP filter line 236807 is malformed.
+(I) 2018-01-15T01:52:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-15T01:52:40 - IP filter line 320112 is malformed.
+(C) 2018-01-15T01:52:40 - IP filter line 338265 is malformed.
+(C) 2018-01-15T01:52:40 - IP filter line 386475 is malformed.
+(I) 2018-01-15T01:52:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-15T01:52:41 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-15T01:52:41 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-15T01:56:17 - 'Ittefaq 2017 Hindi 720p DVDRip x264 ESubs DD 5.1 3GB - LOKI - M2' added to download list.
+(N) 2018-01-15T02:08:31 - 'Ittefaq 2017 Hindi 720p DVDRip x264 ESubs DD 5.1 3GB - LOKI - M2Tv' was removed from the transfer list.
+(I) 2018-01-15T15:30:00 - System network status changed to OFFLINE
+(I) 2018-01-15T15:30:05 - System network status changed to ONLINE
+(I) 2018-01-15T15:32:19 - External IP: 207.38.145.228
+(I) 2018-01-15T15:33:50 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-17T19:25:26 - qBittorrent v4.0.3 started
+(I) 2018-01-17T19:25:26 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-17T19:25:26 - Peer ID: -qB4030-
+(N) 2018-01-17T19:25:26 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-17T19:25:26 - DHT support [ON]
+(I) 2018-01-17T19:25:26 - Local Peer Discovery support [ON]
+(I) 2018-01-17T19:25:26 - PeX support [ON]
+(I) 2018-01-17T19:25:26 - Anonymous mode [OFF]
+(I) 2018-01-17T19:25:26 - Encryption support [FORCED]
+(I) 2018-01-17T19:25:26 - Embedded Tracker [OFF]
+(I) 2018-01-17T19:25:26 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-17T19:25:26 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-17T19:25:26 - Options were saved successfully.
+(I) 2018-01-17T19:25:26 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-17T19:25:26 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-17T19:25:26 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-17T19:25:26 - External IP: 104.236.40.58
+(N) 2018-01-17T19:25:26 - '1921 2018 Hindi Movies PDVDRip x264 Clean Audio AAC with Sample ☻rDX☻' resumed. (fast resume)
+(N) 2018-01-17T19:25:26 - 'Kaashmora 2 (Aayirathil Oruvan) 720p 2017 Full Hindi Dubbed Movie - Karthi, Reemma Sen.MKV' resumed. (fast resume)
+(C) 2018-01-17T19:25:26 - IP filter line 2 is malformed.
+(C) 2018-01-17T19:25:26 - IP filter line 236807 is malformed.
+(C) 2018-01-17T19:25:26 - IP filter line 320112 is malformed.
+(C) 2018-01-17T19:25:26 - IP filter line 338265 is malformed.
+(I) 2018-01-17T19:25:26 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-17T19:25:26 - IP filter line 386475 is malformed.
+(I) 2018-01-17T19:25:26 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-17T19:25:27 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-17T19:25:27 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-17T19:25:36 - '1921 2018 Hindi Movies PDVDRip x264 Clean Audio AAC with Sample ☻rDX☻' was removed from the transfer list.
+(N) 2018-01-17T19:52:08 - 'Kaashmora 2 (Aayirathil Oruvan) 720p 2017 Full Hindi Dubbed Movie - Karthi, Reemma Sen.MKV' was removed from the transfer list.
+(N) 2018-01-17T19:56:12 - 'Qarib.Qarib.Singlle.2017.Hindi.(1CD).PRE.x264.AAC.-.Hon3y' added to download list.
+(N) 2018-01-17T19:58:35 - 'Qarib.Qarib.Singlle.2017.Hindi.(1CD).PRE.x264.AAC.-.Hon3y' was removed from the transfer list.
+(N) 2018-01-17T19:59:06 - 'Justice League (2017) 1080p HC HDRip 1.9GB' added to download list.
+(N) 2018-01-17T19:59:55 - 'Kingsman- The Golden Circle (2017) [720p] English' added to download list.
+(N) 2018-01-17T20:21:58 - 'Kingsman The Golden Circle (2017) [YTS.AG]' was removed from the transfer list.
+(N) 2018-01-17T20:21:58 - 'Justice.League.2017.1080p.HC.HDRip.MkvCage.mkv' was removed from the transfer list.
+(I) 2018-01-17T20:22:01 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-26T17:33:40 - qBittorrent v4.0.3 started
+(I) 2018-01-26T17:33:41 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-26T17:33:41 - Peer ID: -qB4030-
+(N) 2018-01-26T17:33:41 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-26T17:33:41 - DHT support [ON]
+(I) 2018-01-26T17:33:41 - Local Peer Discovery support [ON]
+(I) 2018-01-26T17:33:41 - PeX support [ON]
+(I) 2018-01-26T17:33:41 - Anonymous mode [OFF]
+(I) 2018-01-26T17:33:41 - Encryption support [FORCED]
+(I) 2018-01-26T17:33:41 - Embedded Tracker [OFF]
+(I) 2018-01-26T17:33:41 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-26T17:33:41 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-26T17:33:41 - Options were saved successfully.
+(I) 2018-01-26T17:33:41 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-26T17:33:41 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-26T17:33:41 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-26T17:33:41 - External IP: 104.236.40.58
+(C) 2018-01-26T17:33:41 - IP filter line 2 is malformed.
+(C) 2018-01-26T17:33:41 - IP filter line 236807 is malformed.
+(I) 2018-01-26T17:33:41 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-26T17:33:41 - IP filter line 320112 is malformed.
+(C) 2018-01-26T17:33:41 - IP filter line 338265 is malformed.
+(C) 2018-01-26T17:33:41 - IP filter line 386475 is malformed.
+(I) 2018-01-26T17:33:41 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-26T17:33:41 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-26T17:33:41 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-26T17:33:50 - 'Shaadi.Mein.Zaroor.Aana.2017.Hindi.(1CD).PRE.x264.AAC.-.Hon3y' added to download list.
+(N) 2018-01-26T17:35:05 - 'Qarib Qarib Singlle 2017 Hindi Movies HD TS x264 Clean Audio New' added to download list.
+(N) 2018-01-26T17:36:31 - 'Nirdosh 2018 Hindi Movies DVDScr x264 Clean Audio AAC New +Sampl' added to download list.
+(N) 2018-01-26T17:36:41 - 'Shaadi.Mein.Zaroor.Aana.2017.Hindi.(1CD).PRE.x264.AAC.-.Hon3y' was removed from the transfer list.
+(N) 2018-01-26T17:37:49 - 'The Foreigner 2017 720p BluRay Hindi English DD 5.1 - LOKI - M2T' added to download list.
+(N) 2018-01-26T17:40:38 - 'Nirdosh 2018 Hindi Movies DVDScr x264 Clean Audio AAC New Source with Sample ☻rDX☻' was removed from the transfer list.
+(N) 2018-01-26T17:41:22 - 'Fukrey Returns 2017 Hindi 720p PreDvDRip x264 -xRG' added to download list.
+(N) 2018-01-26T17:42:02 - 'Patel Ki Punjabi Shaadi 2017 Hindi 720p DVDRip x264 ESubs DD 5.1' added to download list.
+(N) 2018-01-26T17:43:51 - 'Mukkabaaz 2018 HDRip x264- HINDY-Hon3y' added to download list.
+(N) 2018-01-26T17:47:38 - 'Kaalakaandi (2018) Hindi - 1CD Desi .preDVDRip - x264 - AAC - MovCr.mkv' added to download list.
+(N) 2018-01-26T17:49:33 - 'Vodka Diaries 2018 Hindi Movies HD TS x264 Clean Audio AAC New +' added to download list.
+(N) 2018-01-26T17:50:08 - 'Qarib Qarib Singlle 2017 Hindi Movies HD TS x264 Clean Audio AAC New Source with Sample ☻rDX☻' was removed from the transfer list.
+(N) 2018-01-26T17:55:02 - 'Downsizing.2017.720p.TS.XViD-BL4CKP34RL' added to download list.
+(N) 2018-01-26T18:02:27 - 'The Foreigner 2017 720p BluRay Hindi English DD 5.1 - LOKI - M2Tv' was removed from the transfer list.
+(N) 2018-01-26T18:02:33 - 'Fukrey Returns 2017 Hindi 720p PreDvDRip x264 -xRG' was removed from the transfer list.
+(N) 2018-01-26T18:04:29 - 'Kaalakaandi (2018) Hindi - 1CD Desi .preDVDRip - x264 - AAC - MovCr.mkv' was removed from the transfer list.
+(C) 2018-01-26T18:05:27 - 'Downsizing.2017.720p.TS.XViD-BL4CKP34RL' was removed from the transfer list but the files couldn't be deleted. Error: Success
+(N) 2018-01-26T18:05:57 - 'Thor.Ragnarok.2017.720p.WEB-DL.MkvCage.mkv' added to download list.
+(N) 2018-01-26T18:07:46 - 'Beyond Skyline 2017 1080p BluRay 6CH AAc x264 - EiE' added to download list.
+(N) 2018-01-26T18:09:00 - qBittorrent v4.0.3 started
+(N) 2018-01-26T18:09:02 - 'Valerian and the City of a Thousand Planets (2017) [720p English' added to download list.
+(N) 2018-01-26T18:16:27 - 'Valerian And The City Of A Thousand Planets (2017) [YTS.AG]' was removed from the transfer list.
+(N) 2018-01-26T18:18:19 - 'Mukkabaaz 2018 HDRip x264- HINDY-Hon3y' was removed from the transfer list.
+(N) 2018-01-26T18:21:34 - 'Beyond Skyline 2017 1080p BluRay 6CH AAc x264 - EiE' was removed from the transfer list.
+(N) 2018-01-26T18:21:55 - 'Thor.Ragnarok.2017.720p.WEB-DL.MkvCage.mkv' was removed from the transfer list.
+(N) 2018-01-26T19:03:16 - 'Patel Ki Punjabi Shaadi 2017 Hindi 720p DVDRip x264 ESubs DD 5.1 - LOKI - M2Tv' was removed from the transfer list and hard disk.
+(N) 2018-01-26T19:03:16 - 'Vodka Diaries 2018 Hindi Movies HD TS x264 Clean Audio AAC New Source with Sample ☻rDX☻' was removed from the transfer list and hard disk.
+(I) 2018-01-26T19:03:16 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-28T17:52:34 - qBittorrent v4.0.3 started
+(I) 2018-01-28T17:52:34 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-28T17:52:34 - Peer ID: -qB4030-
+(N) 2018-01-28T17:52:34 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-28T17:52:34 - DHT support [ON]
+(I) 2018-01-28T17:52:34 - Local Peer Discovery support [ON]
+(I) 2018-01-28T17:52:34 - PeX support [ON]
+(I) 2018-01-28T17:52:34 - Anonymous mode [OFF]
+(I) 2018-01-28T17:52:34 - Encryption support [FORCED]
+(I) 2018-01-28T17:52:34 - Embedded Tracker [OFF]
+(I) 2018-01-28T17:52:34 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-28T17:52:34 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-28T17:52:34 - Options were saved successfully.
+(I) 2018-01-28T17:52:34 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-28T17:52:34 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-28T17:52:34 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2018-01-28T17:52:34 - IP filter line 2 is malformed.
+(I) 2018-01-28T17:52:34 - External IP: 104.236.40.58
+(C) 2018-01-28T17:52:34 - IP filter line 236807 is malformed.
+(I) 2018-01-28T17:52:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-28T17:52:34 - IP filter line 320112 is malformed.
+(C) 2018-01-28T17:52:34 - IP filter line 338265 is malformed.
+(C) 2018-01-28T17:52:34 - IP filter line 386475 is malformed.
+(I) 2018-01-28T17:52:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-28T17:52:35 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-28T17:52:35 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-28T17:52:36 - 'Jumanji Welcome To The Jungle 2017 NEW 720p HD-TS X264 HQ-CPG' added to download list.
+(N) 2018-01-28T17:54:28 - qBittorrent v4.0.3 started
+(N) 2018-01-28T17:54:34 - 'Downsizing.2017.1080p.HC.HDRip.X264.AC3-EVO' added to download list.
+(N) 2018-01-28T17:55:00 - qBittorrent v4.0.3 started
+(N) 2018-01-28T17:55:13 - 'The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8[EtMovies]' added to download list.
+(N) 2018-01-28T17:57:40 - qBittorrent v4.0.3 started
+(N) 2018-01-28T17:57:44 - 'The Shape of Water 2017 DVDScr x264 AC3-M2Tv' added to download list.
+(N) 2018-01-28T18:02:03 - 'The.Shape.of.Water.2017.DVDScr.XVID.AC3.HQ.Hive-CM8[EtMovies]' was removed from the transfer list.
+(N) 2018-01-28T18:14:42 - 'The Shape of Water 2017 DVDScr x264 AC3-M2Tv' was removed from the transfer list.
+(N) 2018-01-28T18:16:49 - 'Jumanji Welcome To The Jungle 2017 NEW 720p HD-TS X264 HQ-CPG' was removed from the transfer list.
+(N) 2018-01-28T18:29:26 - 'Downsizing.2017.1080p.HC.HDRip.X264.AC3-EVO' was removed from the transfer list.
+(I) 2018-01-28T18:30:28 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-31T01:01:34 - qBittorrent v4.0.3 started
+(I) 2018-01-31T01:01:34 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-31T01:01:34 - Peer ID: -qB4030-
+(N) 2018-01-31T01:01:34 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-31T01:01:34 - DHT support [ON]
+(I) 2018-01-31T01:01:34 - Local Peer Discovery support [ON]
+(I) 2018-01-31T01:01:34 - PeX support [ON]
+(I) 2018-01-31T01:01:34 - Anonymous mode [OFF]
+(I) 2018-01-31T01:01:34 - Encryption support [FORCED]
+(I) 2018-01-31T01:01:34 - Embedded Tracker [OFF]
+(I) 2018-01-31T01:01:34 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-31T01:01:34 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-31T01:01:35 - Options were saved successfully.
+(I) 2018-01-31T01:01:35 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-31T01:01:35 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-31T01:01:35 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-31T01:01:35 - External IP: 104.236.40.58
+(I) 2018-01-31T01:01:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2018-01-31T01:01:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-31T01:01:34 - IP filter line 2 is malformed.
+(C) 2018-01-31T01:01:35 - IP filter line 236807 is malformed.
+(C) 2018-01-31T01:01:35 - IP filter line 320112 is malformed.
+(C) 2018-01-31T01:01:35 - IP filter line 338265 is malformed.
+(C) 2018-01-31T01:01:36 - IP filter line 386475 is malformed.
+(C) 2018-01-31T01:01:38 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-31T01:01:38 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-31T01:01:43 - 'Desi Real Indian New XXX Collection - Its Hot 2' added to download list.
+(N) 2018-01-31T01:02:21 - qBittorrent v4.0.3 started
+(N) 2018-01-31T01:02:36 - 'Real.Indian.Porn.FULL.Desi.XXX.Movie-DesiDeshat.com.mpg' added to download list.
+(N) 2018-01-31T01:03:26 - qBittorrent v4.0.3 started
+(N) 2018-01-31T01:03:51 - 'Telugu Home Sex Video Of Virgin Girl First Time iS Naked.mp4' added to download list.
+(N) 2018-01-31T01:06:46 - 'Telugu Home Sex Video Of Virgin Girl First Time iS Naked.mp4' was removed from the transfer list.
+(N) 2018-01-31T01:08:22 - 'Real.Indian.Porn.FULL.Desi.XXX.Movie-DesiDeshat.com.mpg' was removed from the transfer list.
+(N) 2018-01-31T01:14:37 - qBittorrent v4.0.3 started
+(N) 2018-01-31T01:14:40 - 'Xxx Uncensored Indian Leaked Porn Tape - Part 2 **Desi Xclusive*' added to download list.
+(N) 2018-01-31T01:20:46 - 'Desi Real Indian New XXX Collection - Its Hot 2' was removed from the transfer list.
+(N) 2018-01-31T01:27:17 - qBittorrent v4.0.3 started
+(N) 2018-01-31T01:27:20 - 'css.18.01.29.streets.109[tk][480p].mp4' added to download list.
+(N) 2018-01-31T01:28:36 - 'css.18.01.29.streets.109[tk][480p].mp4' was removed from the transfer list.
+(N) 2018-01-31T01:31:47 - 'Xxx Uncensored Indian Leaked Porn Tape - Part 2.mkv' was removed from the transfer list.
+(I) 2018-01-31T01:31:51 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-31T19:29:16 - qBittorrent v4.0.3 started
+(I) 2018-01-31T19:29:16 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-31T19:29:16 - Peer ID: -qB4030-
+(N) 2018-01-31T19:29:16 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-31T19:29:16 - DHT support [ON]
+(I) 2018-01-31T19:29:16 - Local Peer Discovery support [ON]
+(I) 2018-01-31T19:29:16 - PeX support [ON]
+(I) 2018-01-31T19:29:16 - Anonymous mode [OFF]
+(I) 2018-01-31T19:29:16 - Encryption support [FORCED]
+(I) 2018-01-31T19:29:16 - Embedded Tracker [OFF]
+(I) 2018-01-31T19:29:16 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-31T19:29:16 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-31T19:29:17 - Options were saved successfully.
+(I) 2018-01-31T19:29:17 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-31T19:29:17 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-31T19:29:17 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-31T19:29:17 - External IP: 104.236.40.58
+(C) 2018-01-31T19:29:16 - IP filter line 2 is malformed.
+(C) 2018-01-31T19:29:17 - IP filter line 236807 is malformed.
+(I) 2018-01-31T19:29:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-31T19:29:17 - IP filter line 320112 is malformed.
+(C) 2018-01-31T19:29:17 - IP filter line 338265 is malformed.
+(C) 2018-01-31T19:29:17 - IP filter line 386475 is malformed.
+(I) 2018-01-31T19:29:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-31T19:29:17 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-31T19:29:17 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-31T19:29:18 - 'VA - Now That's What I Call Music 2018 (2017) (Mp3 320kbps)' added to download list.
+(N) 2018-01-31T19:29:32 - qBittorrent v4.0.3 started
+(N) 2018-01-31T19:29:34 - 'VA - WOW Hits 2018 (2CD) (Deluxe Edition) (2017) (Mp3 320kbps)' added to download list.
+(N) 2018-01-31T19:30:44 - 'VA - Now That's What I Call Music 2018 (2017) (Mp3 320kbps) [Hunter]' was removed from the transfer list.
+(N) 2018-01-31T19:30:44 - 'VA - WOW Hits 2018 (2CD) (Deluxe Edition) (2017) (Mp3 320kbps) [Hunter]' was removed from the transfer list.
+(I) 2018-01-31T20:10:29 - UPnP / NAT-PMP support [OFF]
+(N) 2018-01-31T21:01:59 - qBittorrent v4.0.3 started
+(I) 2018-01-31T21:01:59 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-01-31T21:01:59 - Peer ID: -qB4030-
+(N) 2018-01-31T21:01:59 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-01-31T21:01:59 - DHT support [ON]
+(I) 2018-01-31T21:01:59 - Local Peer Discovery support [ON]
+(I) 2018-01-31T21:01:59 - PeX support [ON]
+(I) 2018-01-31T21:01:59 - Anonymous mode [OFF]
+(I) 2018-01-31T21:01:59 - Encryption support [FORCED]
+(I) 2018-01-31T21:01:59 - Embedded Tracker [OFF]
+(I) 2018-01-31T21:01:59 - UPnP / NAT-PMP support [ON]
+(I) 2018-01-31T21:01:59 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-01-31T21:01:59 - Options were saved successfully.
+(I) 2018-01-31T21:01:59 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-01-31T21:01:59 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-01-31T21:01:59 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-01-31T21:01:59 - External IP: 104.236.40.58
+(C) 2018-01-31T21:01:59 - IP filter line 2 is malformed.
+(C) 2018-01-31T21:01:59 - IP filter line 236807 is malformed.
+(C) 2018-01-31T21:01:59 - IP filter line 320112 is malformed.
+(I) 2018-01-31T21:01:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-01-31T21:01:59 - IP filter line 338265 is malformed.
+(C) 2018-01-31T21:02:00 - IP filter line 386475 is malformed.
+(I) 2018-01-31T21:02:00 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-01-31T21:02:00 - 13 extra IP filter parsing errors occurred.
+(N) 2018-01-31T21:02:00 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-01-31T21:02:02 - 'options-futures-and-other-derivatives-john-hull-8th.pdf' added to download list.
+(N) 2018-01-31T21:03:03 - qBittorrent v4.0.3 started
+(N) 2018-01-31T21:07:03 - 'options-futures-and-other-derivatives-john-hull-8th.pdf' was removed from the transfer list and hard disk.
+(I) 2018-01-31T21:09:43 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-03T14:49:25 - qBittorrent v4.0.3 started
+(I) 2018-02-03T14:49:25 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-03T14:49:25 - Peer ID: -qB4030-
+(N) 2018-02-03T14:49:25 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-02-03T14:49:25 - DHT support [ON]
+(I) 2018-02-03T14:49:25 - Local Peer Discovery support [ON]
+(I) 2018-02-03T14:49:25 - PeX support [ON]
+(I) 2018-02-03T14:49:25 - Anonymous mode [OFF]
+(I) 2018-02-03T14:49:25 - Encryption support [FORCED]
+(I) 2018-02-03T14:49:25 - Embedded Tracker [OFF]
+(I) 2018-02-03T14:49:25 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-03T14:49:25 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-02-03T14:49:25 - Options were saved successfully.
+(I) 2018-02-03T14:49:25 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-03T14:49:25 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-03T14:49:25 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-02-03T14:49:25 - External IP: 104.236.40.58
+(C) 2018-02-03T14:49:25 - IP filter line 2 is malformed.
+(C) 2018-02-03T14:49:25 - IP filter line 236807 is malformed.
+(C) 2018-02-03T14:49:26 - IP filter line 320112 is malformed.
+(I) 2018-02-03T14:49:26 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-02-03T14:49:26 - IP filter line 338265 is malformed.
+(C) 2018-02-03T14:49:26 - IP filter line 386475 is malformed.
+(I) 2018-02-03T14:49:26 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-03T14:49:26 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-03T14:49:26 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-02-03T14:49:36 - 'Lady Bird 2017 DVDScr x264 AC3-M2Tv' added to download list.
+(N) 2018-02-03T14:50:13 - qBittorrent v4.0.3 started
+(N) 2018-02-03T14:50:15 - 'Three.Billboards.Outside.Ebbing.Missouri.2017.DK.SWESUB.DVDScr.X' added to download list.
+(N) 2018-02-03T14:50:55 - qBittorrent v4.0.3 started
+(N) 2018-02-03T14:50:57 - 'Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8' added to download list.
+(N) 2018-02-03T14:52:01 - qBittorrent v4.0.3 started
+(N) 2018-02-03T14:52:02 - 'I,Tonya.2017.DVDScr.XVID.HQ.Hive-CM8[EtMovies]' added to download list.
+(N) 2018-02-03T14:52:19 - 'Lady Bird 2017 DVDScr x264 AC3-M2Tv' was removed from the transfer list.
+(N) 2018-02-03T14:53:06 - qBittorrent v4.0.3 started
+(N) 2018-02-03T14:53:08 - 'The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8[EtMovies]' added to download list.
+(N) 2018-02-03T14:56:59 - 'Three.Billboards.Outside.Ebbing.Missouri.2017.DK.SWESUB.DVDScr.XVID.AC3-Stiffy' was removed from the transfer list.
+(N) 2018-02-03T15:00:39 - 'I,Tonya.2017.DVDScr.XVID.HQ.Hive-CM8[EtMovies]' was removed from the transfer list.
+(N) 2018-02-03T15:02:38 - 'www.torrenting.com  - Darkest.Hour.2017.DVDScr.XVID.AC3.HQ.Hive-CM8' was removed from the transfer list.
+(N) 2018-02-03T15:04:47 - 'The.Post.2017.DVDScr.XVID.AC3.HQ.Hive-CM8[EtMovies]' was removed from the transfer list.
+(I) 2018-02-03T15:04:54 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-09T20:17:27 - qBittorrent v4.0.3 started
+(I) 2018-02-09T20:17:27 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-09T20:17:27 - Peer ID: -qB4030-
+(N) 2018-02-09T20:17:27 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-02-09T20:17:27 - DHT support [ON]
+(I) 2018-02-09T20:17:27 - Local Peer Discovery support [ON]
+(I) 2018-02-09T20:17:27 - PeX support [ON]
+(I) 2018-02-09T20:17:27 - Anonymous mode [OFF]
+(I) 2018-02-09T20:17:27 - Encryption support [FORCED]
+(I) 2018-02-09T20:17:27 - Embedded Tracker [OFF]
+(I) 2018-02-09T20:17:27 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-09T20:17:27 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Fri Jan 5 09:55:33 2018.
+(N) 2018-02-09T20:17:27 - Options were saved successfully.
+(I) 2018-02-09T20:17:27 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-09T20:17:27 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-09T20:17:27 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-02-09T20:17:27 - External IP: 104.236.40.58
+(C) 2018-02-09T20:17:27 - IP filter line 2 is malformed.
+(C) 2018-02-09T20:17:27 - IP filter line 236807 is malformed.
+(I) 2018-02-09T20:17:27 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-02-09T20:17:27 - IP filter line 320112 is malformed.
+(C) 2018-02-09T20:17:27 - IP filter line 338265 is malformed.
+(I) 2018-02-09T20:17:27 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-09T20:17:27 - IP filter line 386475 is malformed.
+(C) 2018-02-09T20:17:28 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-09T20:17:28 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-02-09T20:17:29 - 'Padmaavat (2018) [ Padmavati ] HIndi Cam 700mb - TodayPk' added to download list.
+(I) 2018-02-09T20:17:33 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(I) 2018-02-09T20:17:33 - Successfully updated GeoIP database.
+(N) 2018-02-09T20:20:19 - 'www.todaypk.se - Padmaavat (2018) HIndi CAMRIP 700 MB - todaypk.MP4' was removed from the transfer list.
+(N) 2018-02-09T20:23:56 - qBittorrent v4.0.3 started
+(N) 2018-02-09T20:23:58 - 'Padmaavat 2018 Hindi 1GB PreDvDRip x264 AAC - xRG' added to download list.
+(N) 2018-02-09T20:24:13 - qBittorrent v4.0.3 started
+(I) 2018-02-09T21:09:03 - External IP: 207.38.145.228
+(I) 2018-02-09T22:10:27 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-11T19:38:52 - qBittorrent v4.0.3 started
+(I) 2018-02-11T19:38:52 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-11T19:38:52 - Peer ID: -qB4030-
+(N) 2018-02-11T19:38:52 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-02-11T19:38:52 - DHT support [ON]
+(I) 2018-02-11T19:38:52 - Local Peer Discovery support [ON]
+(I) 2018-02-11T19:38:52 - PeX support [ON]
+(I) 2018-02-11T19:38:52 - Anonymous mode [OFF]
+(I) 2018-02-11T19:38:52 - Encryption support [FORCED]
+(I) 2018-02-11T19:38:52 - Embedded Tracker [OFF]
+(I) 2018-02-11T19:38:52 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-11T19:38:52 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(N) 2018-02-11T19:38:52 - Options were saved successfully.
+(I) 2018-02-11T19:38:52 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-11T19:38:52 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-11T19:38:52 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-02-11T19:38:52 - External IP: 104.236.40.58
+(N) 2018-02-11T19:38:52 - 'Padmaavat 2018 Hindi 1GB PreDvDRip x264 AAC - xRG' resumed. (fast resume)
+(C) 2018-02-11T19:38:52 - IP filter line 2 is malformed.
+(C) 2018-02-11T19:38:52 - IP filter line 236807 is malformed.
+(I) 2018-02-11T19:38:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-02-11T19:38:52 - IP filter line 320112 is malformed.
+(C) 2018-02-11T19:38:52 - IP filter line 338265 is malformed.
+(C) 2018-02-11T19:38:52 - IP filter line 386475 is malformed.
+(I) 2018-02-11T19:38:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-11T19:38:53 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-11T19:38:53 - Successfully parsed the provided IP filter: 1134513 rules were applied.
+(N) 2018-02-11T19:38:54 - 'Padman 2018 720p PreDVD-Rip x264 MP3 Mafiaking M2Tv' added to download list.
+(N) 2018-02-11T19:38:59 - 'Padmaavat 2018 Hindi 1GB PreDvDRip x264 AAC - xRG' was removed from the transfer list and hard disk.
+(N) 2018-02-11T19:44:23 - 'Padman 2018 720p PreDVD-Rip x264 MP3 Mafiaking M2Tv' was removed from the transfer list.
+(I) 2018-02-11T19:44:25 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-13T20:43:42 - qBittorrent v4.0.3 started
+(I) 2018-02-13T20:43:42 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-13T20:43:42 - Peer ID: -qB4030-
+(N) 2018-02-13T20:43:42 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2018-02-13T20:43:42 - DHT support [ON]
+(I) 2018-02-13T20:43:42 - Local Peer Discovery support [ON]
+(I) 2018-02-13T20:43:42 - PeX support [ON]
+(I) 2018-02-13T20:43:42 - Anonymous mode [OFF]
+(I) 2018-02-13T20:43:42 - Encryption support [FORCED]
+(I) 2018-02-13T20:43:42 - Embedded Tracker [OFF]
+(I) 2018-02-13T20:43:42 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-13T20:43:42 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(N) 2018-02-13T20:43:42 - Options were saved successfully.
+(I) 2018-02-13T20:43:42 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-13T20:43:42 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-13T20:43:42 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2018-02-13T20:43:42 - IP filter line 2 is malformed.
+(C) 2018-02-13T20:43:42 - IP filter line 236802 is malformed.
+(C) 2018-02-13T20:43:42 - IP filter line 320106 is malformed.
+(C) 2018-02-13T20:43:42 - IP filter line 338259 is malformed.
+(C) 2018-02-13T20:43:42 - IP filter line 386473 is malformed.
+(I) 2018-02-13T20:43:42 - External IP: 207.38.145.228
+(I) 2018-02-13T20:43:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2018-02-13T20:43:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-13T20:43:43 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-13T20:43:43 - Successfully parsed the provided IP filter: 1134506 rules were applied.
+(I) 2018-02-13T20:44:15 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-17T18:22:46 - qBittorrent v4.0.4 started
+(I) 2018-02-17T18:22:47 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-17T18:22:47 - Peer ID: -qB4040-
+(N) 2018-02-17T18:22:47 - HTTP User-Agent is 'qBittorrent/4.0.4'
+(I) 2018-02-17T18:22:47 - DHT support [ON]
+(I) 2018-02-17T18:22:47 - Local Peer Discovery support [ON]
+(I) 2018-02-17T18:22:47 - PeX support [ON]
+(I) 2018-02-17T18:22:47 - Anonymous mode [OFF]
+(I) 2018-02-17T18:22:47 - Encryption support [FORCED]
+(I) 2018-02-17T18:22:47 - Embedded Tracker [OFF]
+(I) 2018-02-17T18:22:47 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-17T18:22:47 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(N) 2018-02-17T18:22:47 - Options were saved successfully.
+(I) 2018-02-17T18:22:47 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-17T18:22:47 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-17T18:22:47 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-02-17T18:22:47 - External IP: 104.236.40.58
+(C) 2018-02-17T18:22:47 - IP filter line 2 is malformed.
+(C) 2018-02-17T18:22:47 - IP filter line 236802 is malformed.
+(C) 2018-02-17T18:22:47 - IP filter line 320106 is malformed.
+(C) 2018-02-17T18:22:47 - IP filter line 338259 is malformed.
+(I) 2018-02-17T18:22:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-02-17T18:22:47 - IP filter line 386473 is malformed.
+(I) 2018-02-17T18:22:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-17T18:22:48 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-17T18:22:48 - Successfully parsed the provided IP filter: 1134506 rules were applied.
+(N) 2018-02-17T18:22:58 - 'Padman 2018 720p BrRip x264 - AMIABLE' added to download list.
+(N) 2018-02-17T18:26:51 - 'Padman 2018 720p BrRip x264 - AMIABLE' was removed from the transfer list.
+(I) 2018-02-17T18:26:55 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-21T01:49:27 - qBittorrent v4.0.4 started
+(I) 2018-02-21T01:49:27 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-21T01:49:27 - Peer ID: -qB4040-
+(N) 2018-02-21T01:49:27 - HTTP User-Agent is 'qBittorrent/4.0.4'
+(I) 2018-02-21T01:49:27 - DHT support [ON]
+(I) 2018-02-21T01:49:27 - Local Peer Discovery support [ON]
+(I) 2018-02-21T01:49:27 - PeX support [ON]
+(I) 2018-02-21T01:49:27 - Anonymous mode [OFF]
+(I) 2018-02-21T01:49:27 - Encryption support [FORCED]
+(I) 2018-02-21T01:49:27 - Embedded Tracker [OFF]
+(I) 2018-02-21T01:49:27 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-21T01:49:27 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(N) 2018-02-21T01:49:27 - Options were saved successfully.
+(I) 2018-02-21T01:49:28 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-21T01:49:28 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-21T01:49:28 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-02-21T01:49:28 - External IP: 207.38.145.228
+(I) 2018-02-21T01:49:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(I) 2018-02-21T01:49:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-21T01:49:27 - IP filter line 2 is malformed.
+(C) 2018-02-21T01:49:28 - IP filter line 236802 is malformed.
+(C) 2018-02-21T01:49:28 - IP filter line 320106 is malformed.
+(C) 2018-02-21T01:49:28 - IP filter line 338259 is malformed.
+(C) 2018-02-21T01:49:28 - IP filter line 386473 is malformed.
+(C) 2018-02-21T01:49:30 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-21T01:49:30 - Successfully parsed the provided IP filter: 1134506 rules were applied.
+(I) 2018-02-21T01:49:34 - External IP: 107.170.130.86
+(N) 2018-02-21T01:49:36 - 'Newcomer Prestige exclusive debut Kawai Asuna Miracle Natural Br' added to download list.
+(N) 2018-02-21T01:50:44 - qBittorrent v4.0.4 started
+(N) 2018-02-21T01:50:52 - '[PublicPickUps] Rebecca Volpetti - Italian Cutie Rides Dick At School (11.02.2018) tk.mp4' added to download list.
+(N) 2018-02-21T01:52:12 - qBittorrent v4.0.4 started
+(N) 2018-02-21T01:52:17 - 'MomPov - Lolana - Hour glass figure Latina MILF' added to download list.
+(N) 2018-02-21T01:52:32 - 'MomPov - Lolana - Hour glass figure Latina MILF' was removed from the transfer list and hard disk.
+(N) 2018-02-21T01:55:46 - '[PublicPickUps] Rebecca Volpetti - Italian Cutie Rides Dick At School (11.02.2018) tk.mp4' was removed from the transfer list.
+(N) 2018-02-21T02:03:42 - 'BGN-049.mp4' was removed from the transfer list.
+(I) 2018-02-21T02:03:45 - UPnP / NAT-PMP support [OFF]
+(N) 2018-02-23T18:52:41 - qBittorrent v4.0.4 started
+(I) 2018-02-23T18:52:41 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-02-23T18:52:41 - Peer ID: -qB4040-
+(N) 2018-02-23T18:52:41 - HTTP User-Agent is 'qBittorrent/4.0.4'
+(I) 2018-02-23T18:52:41 - DHT support [ON]
+(I) 2018-02-23T18:52:41 - Local Peer Discovery support [ON]
+(I) 2018-02-23T18:52:41 - PeX support [ON]
+(I) 2018-02-23T18:52:41 - Anonymous mode [OFF]
+(I) 2018-02-23T18:52:41 - Encryption support [FORCED]
+(I) 2018-02-23T18:52:41 - Embedded Tracker [OFF]
+(I) 2018-02-23T18:52:41 - UPnP / NAT-PMP support [ON]
+(I) 2018-02-23T18:52:41 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(N) 2018-02-23T18:52:41 - Options were saved successfully.
+(I) 2018-02-23T18:52:41 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-02-23T18:52:41 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-02-23T18:52:41 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2018-02-23T18:52:41 - IP filter line 2 is malformed.
+(C) 2018-02-23T18:52:41 - IP filter line 236802 is malformed.
+(C) 2018-02-23T18:52:41 - IP filter line 320106 is malformed.
+(C) 2018-02-23T18:52:41 - IP filter line 338259 is malformed.
+(I) 2018-02-23T18:52:42 - External IP: 207.38.145.228
+(I) 2018-02-23T18:52:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-02-23T18:52:42 - IP filter line 386473 is malformed.
+(I) 2018-02-23T18:52:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-02-23T18:52:42 - 13 extra IP filter parsing errors occurred.
+(N) 2018-02-23T18:52:42 - Successfully parsed the provided IP filter: 1134506 rules were applied.
+(I) 2018-02-23T18:52:44 - External IP: 107.170.130.86
+(N) 2018-02-23T18:52:49 - 'Padman 2018 Hindi 720p PreDvDRip x264 AAC - xRG' added to download list.
+(N) 2018-02-23T18:56:49 - qBittorrent v4.0.4 started
+(N) 2018-02-23T18:56:56 - '[movcr.com] Daddy (2017) 720p Hindi - HDRip  - x264 - AAC.mkv' added to download list.
+(N) 2018-02-23T18:57:40 - qBittorrent v4.0.4 started
+(N) 2018-02-23T18:57:50 - ' Aiyaary (2018) Hindi 1CD Desi preDVDRip  x264 AAC.mkv' added to download list.
+(N) 2018-02-23T18:58:31 - qBittorrent v4.0.4 started
+(N) 2018-02-23T18:58:34 - 'Vodka Diaries 2018 Hindi Movies HD TS x264 Clean Audio AAC New Source with Sample ☻rDX☻' added to download list.
+(N) 2018-02-23T18:59:09 - '[movcr.com] Daddy (2017) 720p Hindi - HDRip  - x264 - AAC.mkv' was removed from the transfer list and hard disk.
+(N) 2018-02-23T18:59:33 - qBittorrent v4.0.4 started
+(N) 2018-02-23T18:59:36 - 'Daddy 2017 Hindi AMZN WEB-DL x264 DD 5.1  ESub - LOKI - M2Tv' added to download list.
+(N) 2018-02-23T19:56:54 - ' Aiyaary (2018) Hindi 1CD Desi preDVDRip  x264 AAC.mkv' was removed from the transfer list.
+(N) 2018-02-23T19:56:54 - 'Daddy 2017 Hindi AMZN WEB-DL x264 DD 5.1  ESub - LOKI - M2Tv' was removed from the transfer list.
+(N) 2018-02-23T19:56:54 - 'Padman 2018 Hindi 720p PreDvDRip x264 AAC - xRG' was removed from the transfer list.
+(N) 2018-02-23T19:56:54 - 'Vodka Diaries 2018 Hindi Movies HD TS x264 Clean Audio AAC New Source with Sample ☻rDX☻' was removed from the transfer list.
+(I) 2018-02-23T19:56:57 - UPnP / NAT-PMP support [OFF]
+(N) 2018-03-10T21:06:18 - qBittorrent v4.0.4 started
+(I) 2018-03-10T21:06:18 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-03-10T21:06:18 - Peer ID: -qB4040-
+(N) 2018-03-10T21:06:18 - HTTP User-Agent is 'qBittorrent/4.0.4'
+(I) 2018-03-10T21:06:18 - DHT support [ON]
+(I) 2018-03-10T21:06:18 - Local Peer Discovery support [ON]
+(I) 2018-03-10T21:06:18 - PeX support [ON]
+(I) 2018-03-10T21:06:18 - Anonymous mode [OFF]
+(I) 2018-03-10T21:06:18 - Encryption support [FORCED]
+(I) 2018-03-10T21:06:18 - Embedded Tracker [OFF]
+(I) 2018-03-10T21:06:18 - UPnP / NAT-PMP support [ON]
+(I) 2018-03-10T21:06:18 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Feb 7 14:42:47 2018.
+(N) 2018-03-10T21:06:18 - Options were saved successfully.
+(I) 2018-03-10T21:06:18 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-03-10T21:06:18 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-03-10T21:06:18 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(I) 2018-03-10T21:06:18 - External IP: 207.38.145.228
+(I) 2018-03-10T21:06:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-03-10T21:06:18 - IP filter line 2 is malformed.
+(C) 2018-03-10T21:06:18 - IP filter line 236802 is malformed.
+(C) 2018-03-10T21:06:18 - IP filter line 320106 is malformed.
+(C) 2018-03-10T21:06:18 - IP filter line 338259 is malformed.
+(I) 2018-03-10T21:06:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-03-10T21:06:18 - IP filter line 386473 is malformed.
+(C) 2018-03-10T21:06:19 - 13 extra IP filter parsing errors occurred.
+(N) 2018-03-10T21:06:19 - Successfully parsed the provided IP filter: 1134506 rules were applied.
+(I) 2018-03-10T21:06:20 - External IP: 107.170.130.86
+(I) 2018-03-10T21:06:20 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Mar 7 20:03:13 2018.
+(I) 2018-03-10T21:06:20 - Successfully updated GeoIP database.
+(N) 2018-03-10T21:06:20 - 'Fukrey Returns (2017) Hindi 720p CAM x264 AAC - Downloadhub' added to download list.
+(N) 2018-03-10T21:07:24 - qBittorrent v4.0.4 started
+(N) 2018-03-10T21:07:26 - 'Call Me By Your Name 2017 DVDSCR X264 CataVentos[EtMovies]' added to download list.
+(N) 2018-03-10T21:07:48 - qBittorrent v4.0.4 started
+(N) 2018-03-10T21:07:51 - 'Phantom Thread 2018 720p BrRip x264 - TiTAN' added to download list.
+(N) 2018-03-10T21:11:29 - qBittorrent v4.0.4 started
+(N) 2018-03-10T21:11:30 - 'Sonu Ke Titu Ki Sweety (2018) Hindi 720p PRE x264 AAC ' added to download list.
+(N) 2018-03-10T21:30:04 - 'Call Me By Your Name 2017 DVDSCR X264 CataVentos[EtMovies]' was removed from the transfer list.
+(N) 2018-03-10T21:30:04 - 'Fukrey Returns (2017) Hindi 720p PRE x264 AAC - Downloadhub' was removed from the transfer list.
+(N) 2018-03-10T23:26:51 - 'Sonu Ke Titu Ki Sweety (2018) Hindi 720p PRE x264 AAC - Downloadhub' was removed from the transfer list.
+(N) 2018-03-10T23:26:51 - 'Phantom Thread 2018 720p BrRip x264 - TiTAN' was removed from the transfer list.
+(I) 2018-03-10T23:26:53 - UPnP / NAT-PMP support [OFF]
+(N) 2018-03-11T15:47:03 - qBittorrent v4.0.4 started
+(I) 2018-03-11T15:47:03 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-03-11T15:47:03 - Peer ID: -qB4040-
+(N) 2018-03-11T15:47:03 - HTTP User-Agent is 'qBittorrent/4.0.4'
+(I) 2018-03-11T15:47:03 - DHT support [ON]
+(I) 2018-03-11T15:47:03 - Local Peer Discovery support [ON]
+(I) 2018-03-11T15:47:03 - PeX support [ON]
+(I) 2018-03-11T15:47:03 - Anonymous mode [OFF]
+(I) 2018-03-11T15:47:03 - Encryption support [FORCED]
+(I) 2018-03-11T15:47:03 - Embedded Tracker [OFF]
+(I) 2018-03-11T15:47:03 - UPnP / NAT-PMP support [ON]
+(I) 2018-03-11T15:47:03 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Mar 7 20:03:13 2018.
+(N) 2018-03-11T15:47:03 - Options were saved successfully.
+(I) 2018-03-11T15:47:03 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2018-03-11T15:47:03 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2018-03-11T15:47:03 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(C) 2018-03-11T15:47:03 - IP filter line 2 is malformed.
+(C) 2018-03-11T15:47:03 - IP filter line 236802 is malformed.
+(C) 2018-03-11T15:47:03 - IP filter line 320106 is malformed.
+(I) 2018-03-11T15:47:03 - External IP: 207.38.145.228
+(I) 2018-03-11T15:47:03 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/8999
+(C) 2018-03-11T15:47:03 - IP filter line 338259 is malformed.
+(C) 2018-03-11T15:47:03 - IP filter line 386473 is malformed.
+(I) 2018-03-11T15:47:03 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/8999
+(C) 2018-03-11T15:47:04 - 13 extra IP filter parsing errors occurred.
+(N) 2018-03-11T15:47:04 - Successfully parsed the provided IP filter: 1134506 rules were applied.
+(N) 2018-03-11T15:47:06 - 'f5379531279b0f73cac6e14d9dc37f275cb63dfd' added to download list.
+(I) 2018-03-11T15:47:08 - External IP: 107.170.130.86
+(C) 2018-03-11T15:50:53 - 'f5379531279b0f73cac6e14d9dc37f275cb63dfd' was removed from the transfer list but the files couldn't be deleted. Error: Success
+(N) 2018-03-11T15:53:58 - qBittorrent v4.0.4 started
+(N) 2018-03-11T15:54:01 - 'Vodka Diaries 2018 Hindi Movies HD TS x264 Clean Audio AAC New Source with Sample ☻rDX☻' added to download list.
+(N) 2018-03-11T15:55:22 - qBittorrent v4.0.4 started
+(N) 2018-03-11T15:55:24 - 'Hdhub4u.org - W3lc0m3-t0-n3w-y0rk-7.mkv' added to download list.
+(N) 2018-03-11T15:56:27 - qBittorrent v4.0.4 started
+(N) 2018-03-11T15:56:30 - '3 Storeys (2018)C 1CD Pre-DvDRip x264 AAC - ReXStAr.mkv' added to download list.
+(C) 2018-03-11T15:56:30 - URL seed lookup failed for URL: '207.241.227.110:80', message: 3 Storeys (2018)C 1CD Pre-DvDRip x264 AAC - ReXStAr.mkv url seed (207.241.227.110:80) failed: unsupported URL protocol
+(C) 2018-03-11T15:56:30 - URL seed lookup failed for URL: '207.241.228.150:443', message: 3 Storeys (2018)C 1CD Pre-DvDRip x264 AAC - ReXStAr.mkv url seed (207.241.228.150:443) failed: unsupported URL protocol
+(N) 2018-03-11T15:58:14 - qBittorrent v4.0.4 started
+(N) 2018-03-11T15:58:19 - 'Sonu Ke Titu Ki Sweety (2018) Hindi 720p PRE x264 AAC - Downloadhub' added to download list.
+(N) 2018-03-11T15:58:42 - qBittorrent v4.0.4 started
+(N) 2018-03-11T15:58:44 - 'Fukrey Returns 2017 Hindi 1GB PreDvDRip x264 -xRG' added to download list.
+(N) 2018-03-11T16:02:45 - qBittorrent v4.0.4 started
+(N) 2018-03-11T16:02:47 - '[movcr.com] Phullu (2017) Hindi DVDRip - x264 - AAC -Esub - MovCr.mkv' added to download list.
+(N) 2018-03-11T16:11:13 - 'Hdhub4u.org - W3lc0m3-t0-n3w-y0rk-7.mkv' was removed from the transfer list and hard disk.
+(N) 2018-03-11T16:12:10 - 'Vodka Diaries 2018 Hindi Movies HD TS x264 Clean Audio AAC New Source with Sample ☻rDX☻' was removed from the transfer list and hard disk.
+(N) 2018-03-11T16:16:00 - 'Sonu Ke Titu Ki Sweety (2018) Hindi 720p PRE x264 AAC - Downloadhub' was removed from the transfer list.
+(N) 2018-03-11T16:16:07 - 'Fukrey Returns 2017 Hindi 1GB PreDvDRip x264 -xRG' was removed from the transfer list.
+(N) 2018-03-11T16:17:50 - '3 Storeys (2018)C 1CD Pre-DvDRip x264 AAC - ReXStAr.mkv' was removed from the transfer list.
+(N) 2018-03-11T16:22:06 - qBittorrent v4.0.4 started
+(N) 2018-03-11T16:22:07 - qBittorrent v4.0.4 started
+(N) 2018-03-11T16:22:13 - 'Phantom Thread 2018 720p BrRip x264 - LEGi0N' added to download list.
+(I) 2018-03-11T16:28:16 - UPnP / NAT-PMP support [OFF]
+(N) 2018-03-11T16:36:28 - qBittorrent v4.0.4 started
+(I) 2018-03-11T16:36:28 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2018-03-11T16:36:28 - Peer ID: -qB4040-
+(N) 2018-03-11T16:36:28 - HTTP User-Agent is 'qBittorrent/4.0.4'
+(I) 2018-03-11T16:36:28 - DHT support [ON]
+(I) 2018-03-11T16:36:28 - Local Peer Discovery support [ON]
+(I) 2018-03-11T16:36:28 - PeX support [ON]
+(I) 2018-03-11T16:36:28 - Anonymous mode [OFF]
+(I) 2018-03-11T16:36:28 - Encryption support [FORCED]
+(I) 2018-03-11T16:36:28 - Embedded Tracker [OFF]
+(I) 2018-03-11T16:36:28 - UPnP / NAT-PMP support [ON]
+(I) 2018-03-11T16:36:28 - GeoIP database loaded. Type: GeoLite2-Country. Build time: Wed Mar 7 20:03:13 2018.
