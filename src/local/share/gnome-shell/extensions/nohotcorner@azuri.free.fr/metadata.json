@@ -13,9 +13,11 @@
     "3.22", 
     "3.24", 
     "3.26", 
-    "3.28"
+    "3.28", 
+    "3.30", 
+    "3.32"
   ], 
   "url": "https://github.com/HROMANO/nohotcorner/", 
   "uuid": "nohotcorner@azuri.free.fr", 
-  "version": 17
+  "version": 19
 }

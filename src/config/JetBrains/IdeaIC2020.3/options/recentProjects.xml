@@ -1,0 +1,69 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/example">
+          <value>
+            <RecentProjectMetaInfo frameTitle="example" projectWorkspaceId="1PRSVE68Uc1LMQtWn2rN1Qfeo7R">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775505195" />
+              <frame x="0" y="28" width="2048" height="1124" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1608260225316" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/rust-collections">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rust-collections" projectWorkspaceId="1jwobVsJOZazlVeLU0YmDJszcaq">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775474625" />
+              <frame x="0" y="28" width="2048" height="1124" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1609030714628" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/rust-pointers">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rust-pointers – main.rs" projectWorkspaceId="1k9huz4CZAUWyTrU7KiazjG0loW">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775514234" />
+              <frame x="0" y="28" width="2048" height="1124" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1609277054400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/rust-generics">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rust-generics" projectWorkspaceId="1mLgNDwfGGWXiervP4TPFxpqYXK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775514234" />
+              <frame x="0" y="27" width="2048" height="1125" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1609278244850" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/kotlin_example">
+          <value>
+            <RecentProjectMetaInfo frameTitle="kotlin_example" opened="true" projectWorkspaceId="1lqNXmPr08qkBXR5UYY9a6pGxYU">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.6682.168" />
+              <option name="buildTimestamp" value="1609240727604" />
+              <frame x="0" y="28" width="2048" height="1124" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1609881785101" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

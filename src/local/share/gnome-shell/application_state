@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-control-center.desktop" open-window-count="0" score="3" last-seen="1522020946"/>
-    <application id="firefox.desktop" open-window-count="1" score="18139.797877788544" last-seen="1522022736"/>
-    <application id="shotwell.desktop" open-window-count="0" score="0" last-seen="1522011109"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="59" last-seen="1522018166"/>
-    <application id="xterm.desktop" open-window-count="0" score="0" last-seen="1522018128"/>
-    <application id="qbittorrent.desktop" open-window-count="0" score="608" last-seen="1522020890"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0" last-seen="1522010663"/>
-    <application id="org.gnome.tweaks.desktop" open-window-count="0" score="37" last-seen="1522018187"/>
-    <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="1" last-seen="1522018185"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="581" last-seen="1522022673"/>
-    <application id="jetbrains-idea-2018-eap-ce.desktop" open-window-count="0" score="4" last-seen="1522010608"/>
+    <application id="org.gnome.Evince.desktop" score="5601.2554931640625" last-seen="1609975351"/>
+    <application id="org.gnome.Nautilus.desktop" score="310.02969360351562" last-seen="1609979195"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="4.0001220703125" last-seen="1609783934"/>
+    <application id="jetbrains-idea-ce.desktop" score="32.009193420410156" last-seen="1609881905"/>
+    <application id="org.gnome.tweaks.desktop" score="48.503952026367188" last-seen="1609911253"/>
+    <application id="org.gnome.Terminal.desktop" score="17704.48681640625" last-seen="1609979188"/>
+    <application id="io.github.celluloid_player.Celluloid.desktop" score="0" last-seen="1609979194"/>
+    <application id="mpv.desktop" score="10" last-seen="1609978511"/>
+    <application id="gnome-control-center.desktop" score="5.5206222534179688" last-seen="1609876499"/>
+    <application id="org.gnome.Weather.desktop" score="4" last-seen="1609972196"/>
+    <application id="chromium.desktop" score="352" last-seen="1609974404"/>
+    <application id="firefox.desktop" score="2733.0705490112305" last-seen="1609979189"/>
   </context>
 </application-state>

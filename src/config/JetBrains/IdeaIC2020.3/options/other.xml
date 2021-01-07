@@ -1,0 +1,92 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="AdoptOpenJDK (HotSpot) 14.0.2" />
+        <option name="installDir" value="$USER_HOME$/.jdks/adopt-openjdk-14.0.2" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/adopt-openjdk-14.0.2" />
+        <option name="sha256" value="7d5ee7e06909b8a99c0d029f512f67b092597aa5b0e78c109bd59405bbfa74fe" />
+        <option name="url" value="https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.2%2B12/OpenJDK14U-jdk_x64_linux_hotspot_14.0.2_12.tar.gz" />
+        <option name="versionText" value="14.0.2" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Roboto Condensed" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1PRSVE68Uc1LMQtWn2rN1Qfeo7R">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1jwobVsJOZazlVeLU0YmDJszcaq">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1k9huz4CZAUWyTrU7KiazjG0loW">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1lqNXmPr08qkBXR5UYY9a6pGxYU">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1mLgNDwfGGWXiervP4TPFxpqYXK">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.19878604" />
+    <property name="MarketplacePluginsSearchHistory" value="c++ /sortBy:downloads&#10;c /sortBy:downloads&#10;c plus /sortBy:downloads&#10;cplus /sortBy:downloads&#10;c pl /sortBy:downloads" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-60bf8f6306392f5217c27329cf3473e3bccadb374db3a3d6b937e66f56f13452" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="/lib/jvm/default&#10;/home/mk/.cargo/bin&#10;/home/mk/projects/rust-pointers&#10;/home/mk&#10;/home/mk/projects/rust-collections&#10;/usr/lib/jvm/openjdk11&#10;/usr/share/doc/java-openjdk&#10;/usr/lib/jvm/default&#10;/home/mk/projects/example" />
+    <property name="file.gist.reindex.count" value="4" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-203.6682.168" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.21-release-IJ6682.9" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="kotlin.lastUpdateCheck" value="1609191316958" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.4.21-release-IJ6682.9:2021-01-04" />
+    <property name="lastSeenTip" value="neue-SurroundWith.html" />
+    <property name="lastTimeTipsWereShown" value="1609880806859" />
+    <property name="last_opened_file_path" value="/lib/jvm/default" />
+    <property name="org.rust.lang.LAST_UPDATE" value="1609881773395" />
+    <property name="org.rust.lang.LAST_VERSION" value="0.3.138.3572-203" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1609880800435" />
+    <property name="project.wizard.group" value="RUST_MODULE" />
+    <property name="project.wizard.template" value="JVM | IDEA" />
+    <property name="seenTips" value="neue-EnterDirectoryInGotoFile.html,neue-CancelByControlArrows.html,neue-SpeedSearch.html,neue-RemoveBreakpoint.html,neue-partial_git_commit.html,neue-SecondSmartCompletionAsList.html,neue-SurroundWith.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

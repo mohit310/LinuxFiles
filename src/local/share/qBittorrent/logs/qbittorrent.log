@@ -1,0 +1,173 @@
+(N) 2020-12-17T08:03:48 - qBittorrent v4.3.1 started
+(N) 2020-12-17T08:03:48 - Using config directory: /home/mk/.config/qBittorrent/
+(I) 2020-12-17T08:03:50 - Trying to listen on: 0.0.0.0:15636,[::]:15636
+(N) 2020-12-17T08:03:50 - Peer ID: -qB4310-
+(N) 2020-12-17T08:03:50 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2020-12-17T08:03:50 - DHT support [ON]
+(I) 2020-12-17T08:03:50 - Local Peer Discovery support [ON]
+(I) 2020-12-17T08:03:50 - PeX support [ON]
+(I) 2020-12-17T08:03:50 - Anonymous mode [OFF]
+(I) 2020-12-17T08:03:50 - Encryption support [ON]
+(I) 2020-12-17T08:03:50 - UPnP / NAT-PMP support [ON]
+(W) 2020-12-17T08:03:50 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2020-12-17T08:03:51 - Options were saved successfully.
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: 127.0.0.1, port: TCP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: 127.0.0.1, port: UDP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: 192.168.1.8, port: TCP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: 192.168.1.8, port: UDP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: 10.65.108.100, port: TCP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: 10.65.108.100, port: UDP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: ::1, port: TCP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: ::1, port: UDP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: fe80::e3cf:32fa:f92c:66e6%wlp8s0, port: TCP/15636
+(I) 2020-12-17T08:03:51 - Successfully listening on IP: fe80::e3cf:32fa:f92c:66e6%wlp8s0, port: UDP/15636
+(I) 2020-12-17T08:03:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 00:32:32 2020.
+(I) 2020-12-17T08:03:51 - Successfully updated IP geolocation database.
+(I) 2020-12-17T08:03:52 - Detected external IP: 86.106.143.100
+(I) 2020-12-17T08:03:52 - Detected external IP: 71.105.146.210
+(I) 2020-12-17T08:03:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/15636
+(I) 2020-12-17T08:03:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/15636
+(N) 2020-12-17T08:04:00 - 'A Promised Land (AudiBoi.com).mp3' added to download list.
+(N) 2020-12-17T08:04:59 - qBittorrent v4.3.1 started
+(N) 2020-12-17T08:04:59 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-17T08:05:08 - 'Barack Obama - Dreams from my father' added to download list.
+(C) 2020-12-17T08:06:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-12-17T08:06:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-12-17T08:07:40 - Encryption support [FORCED]
+(N) 2020-12-17T08:07:40 - Options were saved successfully.
+(I) 2020-12-17T08:07:40 - Trying to listen on: mlvd-us88:15636
+(C) 2020-12-17T08:07:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: 500 Internal Server Error
+(C) 2020-12-17T08:07:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: 500 Internal Server Error
+(N) 2020-12-17T08:07:46 - 'Barack Obama - Dreams from my father' was removed from the transfer list.
+(N) 2020-12-17T08:07:46 - 'A Promised Land (AudiBoi.com).mp3' was removed from the transfer list.
+(I) 2020-12-17T08:07:48 - UPnP / NAT-PMP support [OFF]
+(N) 2020-12-17T08:09:03 - qBittorrent v4.3.1 started
+(N) 2020-12-17T08:09:03 - Using config directory: /home/mk/.config/qBittorrent/
+(I) 2020-12-17T08:09:03 - Trying to listen on: mlvd-us88:15636
+(N) 2020-12-17T08:09:03 - Peer ID: -qB4310-
+(N) 2020-12-17T08:09:03 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2020-12-17T08:09:03 - DHT support [ON]
+(I) 2020-12-17T08:09:03 - Local Peer Discovery support [ON]
+(I) 2020-12-17T08:09:03 - PeX support [ON]
+(I) 2020-12-17T08:09:03 - Anonymous mode [OFF]
+(I) 2020-12-17T08:09:03 - Encryption support [FORCED]
+(I) 2020-12-17T08:09:03 - UPnP / NAT-PMP support [ON]
+(I) 2020-12-17T08:09:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 00:32:32 2020.
+(N) 2020-12-17T08:09:03 - Options were saved successfully.
+(I) 2020-12-17T08:09:03 - Successfully listening on IP: 10.65.108.100, port: TCP/15636
+(I) 2020-12-17T08:09:03 - Successfully listening on IP: 10.65.108.100, port: UDP/15636
+(I) 2020-12-17T08:09:03 - Detected external IP: 86.106.143.100
+(I) 2020-12-17T08:09:50 - DHT support [OFF]
+(W) 2020-12-17T08:09:50 - Restart is required to toggle PeX support
+(I) 2020-12-17T08:09:50 - Local Peer Discovery support [OFF]
+(I) 2020-12-17T08:09:50 - Anonymous mode [ON]
+(N) 2020-12-17T08:09:50 - Options were saved successfully.
+(N) 2020-12-17T08:10:09 - qBittorrent v4.3.1 started
+(N) 2020-12-17T08:10:09 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-17T08:10:12 - 'am.i.mullvad.net' added to download list.
+(N) 2020-12-17T08:10:28 - 'am.i.mullvad.net' was removed from the transfer list.
+(N) 2020-12-17T08:10:33 - qBittorrent v4.3.1 started
+(N) 2020-12-17T08:10:33 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-17T08:10:35 - 'am.i.mullvad.net' added to download list.
+(N) 2020-12-17T08:10:44 - 'am.i.mullvad.net' was removed from the transfer list.
+(I) 2020-12-17T08:10:45 - UPnP / NAT-PMP support [OFF]
+(N) 2020-12-17T17:45:57 - qBittorrent v4.3.1 started
+(N) 2020-12-17T17:45:57 - Using config directory: /home/mk/.config/qBittorrent/
+(I) 2020-12-17T17:45:57 - Trying to listen on: mlvd-us88:15636
+(N) 2020-12-17T17:45:57 - Peer ID: -qB4310-
+(N) 2020-12-17T17:45:57 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2020-12-17T17:45:57 - DHT support [OFF]
+(I) 2020-12-17T17:45:57 - Local Peer Discovery support [OFF]
+(I) 2020-12-17T17:45:57 - PeX support [OFF]
+(I) 2020-12-17T17:45:57 - Anonymous mode [ON]
+(I) 2020-12-17T17:45:57 - Encryption support [FORCED]
+(I) 2020-12-17T17:45:57 - UPnP / NAT-PMP support [ON]
+(I) 2020-12-17T17:45:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 00:32:32 2020.
+(N) 2020-12-17T17:45:57 - Options were saved successfully.
+(I) 2020-12-17T17:45:57 - Successfully listening on IP: 10.65.108.100, port: TCP/15636
+(I) 2020-12-17T17:45:57 - Successfully listening on IP: 10.65.108.100, port: UDP/15636
+(I) 2020-12-17T17:45:58 - Detected external IP: 86.106.143.100
+(N) 2020-12-17T17:46:01 - 'MICROSOFT Office PRO Plus 2016 v16.0.4266.1003 RTM + Activator [TechTools.NET]' added to download list.
+(C) 2020-12-17T17:48:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-12-17T17:48:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2020-12-17T17:54:54 - 'MICROSOFT Office PRO Plus 2016 v16.0.4266.1003 RTM + Activator [TechTools.NET]' was removed from the transfer list.
+(I) 2020-12-17T17:54:56 - UPnP / NAT-PMP support [OFF]
+(N) 2020-12-28T11:51:30 - qBittorrent v4.3.1 started
+(N) 2020-12-28T11:51:30 - Using config directory: /home/mk/.config/qBittorrent/
+(I) 2020-12-28T11:51:30 - Trying to listen on: mlvd-us88:15636
+(N) 2020-12-28T11:51:30 - Peer ID: -qB4310-
+(N) 2020-12-28T11:51:30 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2020-12-28T11:51:30 - DHT support [OFF]
+(I) 2020-12-28T11:51:30 - Local Peer Discovery support [OFF]
+(I) 2020-12-28T11:51:30 - PeX support [OFF]
+(I) 2020-12-28T11:51:30 - Anonymous mode [ON]
+(I) 2020-12-28T11:51:30 - Encryption support [FORCED]
+(I) 2020-12-28T11:51:30 - UPnP / NAT-PMP support [ON]
+(I) 2020-12-28T11:51:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 05:32:32 2020.
+(N) 2020-12-28T11:51:30 - Options were saved successfully.
+(I) 2020-12-28T11:51:30 - Successfully listening on IP: 10.65.108.100, port: TCP/15636
+(I) 2020-12-28T11:51:30 - Successfully listening on IP: 10.65.108.100, port: UDP/15636
+(I) 2020-12-28T11:51:31 - Detected external IP: 86.106.143.100
+(N) 2020-12-28T11:51:34 - 'Soul.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]' added to download list.
+(C) 2020-12-28T11:54:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-12-28T11:54:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2020-12-28T11:56:39 - qBittorrent v4.3.1 started
+(N) 2020-12-28T11:56:39 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-28T11:56:41 - 'Wonder Woman 1984.2020.IMAX.HDRip.XviD.AC3-EVO[TGx]' added to download list.
+(N) 2020-12-28T11:56:46 - 'Soul.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]' was removed from the transfer list.
+(N) 2020-12-28T11:58:07 - qBittorrent v4.3.1 started
+(N) 2020-12-28T11:58:07 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-28T11:58:08 - 'VA - Apple Music The 100 Best Songs of 2020 (Mp3 320kbps)' added to download list.
+(N) 2020-12-28T12:01:22 - 'VA - Apple Music The 100 Best Songs of 2020 (Mp3 320kbps)' was removed from the transfer list.
+(N) 2020-12-28T12:01:22 - 'Wonder Woman 1984.2020.IMAX.HDRip.XviD.AC3-EVO[TGx]' was removed from the transfer list.
+(I) 2020-12-28T12:01:23 - UPnP / NAT-PMP support [OFF]
+(N) 2020-12-28T17:17:39 - qBittorrent v4.3.1 started
+(N) 2020-12-28T17:17:39 - Using config directory: /home/mk/.config/qBittorrent/
+(I) 2020-12-28T17:17:39 - Trying to listen on: mlvd-us88:15636
+(N) 2020-12-28T17:17:39 - Peer ID: -qB4310-
+(N) 2020-12-28T17:17:39 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2020-12-28T17:17:39 - DHT support [OFF]
+(I) 2020-12-28T17:17:39 - Local Peer Discovery support [OFF]
+(I) 2020-12-28T17:17:39 - PeX support [OFF]
+(I) 2020-12-28T17:17:39 - Anonymous mode [ON]
+(I) 2020-12-28T17:17:39 - Encryption support [FORCED]
+(I) 2020-12-28T17:17:39 - UPnP / NAT-PMP support [ON]
+(I) 2020-12-28T17:17:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 05:32:32 2020.
+(N) 2020-12-28T17:17:40 - Options were saved successfully.
+(I) 2020-12-28T17:17:40 - Successfully listening on IP: 10.65.108.100, port: TCP/15636
+(I) 2020-12-28T17:17:40 - Successfully listening on IP: 10.65.108.100, port: UDP/15636
+(N) 2020-12-28T17:17:41 - 'Love and Monsters (2020) [1080p] [WEBRip] [5.1]' added to download list.
+(I) 2020-12-28T17:17:42 - Detected external IP: 86.106.143.100
+(C) 2020-12-28T17:20:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-12-28T17:20:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2020-12-28T17:23:30 - 'Love and Monsters (2020) [1080p] [WEBRip] [5.1]' was removed from the transfer list.
+(I) 2020-12-28T17:23:33 - UPnP / NAT-PMP support [OFF]
+(N) 2020-12-29T17:01:01 - qBittorrent v4.3.1 started
+(N) 2020-12-29T17:01:01 - Using config directory: /home/mk/.config/qBittorrent/
+(I) 2020-12-29T17:01:01 - Trying to listen on: mlvd-us88:15636
+(N) 2020-12-29T17:01:01 - Peer ID: -qB4310-
+(N) 2020-12-29T17:01:01 - HTTP User-Agent is 'qBittorrent/4.3.1'
+(I) 2020-12-29T17:01:01 - DHT support [OFF]
+(I) 2020-12-29T17:01:01 - Local Peer Discovery support [OFF]
+(I) 2020-12-29T17:01:01 - PeX support [OFF]
+(I) 2020-12-29T17:01:01 - Anonymous mode [ON]
+(I) 2020-12-29T17:01:01 - Encryption support [FORCED]
+(I) 2020-12-29T17:01:01 - UPnP / NAT-PMP support [ON]
+(I) 2020-12-29T17:01:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 1 00:32:32 2020.
+(N) 2020-12-29T17:01:01 - Options were saved successfully.
+(I) 2020-12-29T17:01:01 - Successfully listening on IP: 10.65.108.100, port: TCP/15636
+(I) 2020-12-29T17:01:01 - Successfully listening on IP: 10.65.108.100, port: UDP/15636
+(I) 2020-12-29T17:01:02 - Detected external IP: 86.106.143.100
+(N) 2020-12-29T17:01:03 - 'C++ Primer 5th Edition 6th Printing' added to download list.
+(N) 2020-12-29T17:01:25 - 'C++ Primer 5th Edition 6th Printing' was removed from the transfer list.
+(C) 2020-12-29T17:03:37 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-12-29T17:03:37 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2020-12-29T17:04:57 - qBittorrent v4.3.1 started
+(N) 2020-12-29T17:04:57 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-29T17:04:58 - 'Malik D. C++ Programming. Program Design  8ed 2017' added to download list.
+(N) 2020-12-29T17:05:56 - qBittorrent v4.3.1 started
+(N) 2020-12-29T17:05:56 - Using config directory: /home/mk/.config/qBittorrent/
+(N) 2020-12-29T17:05:58 - 'C++ PROGRAMMING BOOK BY DS MALIK' added to download list.
+(N) 2020-12-29T17:14:49 - 'Malik D. C++ Programming. Program Design  8ed 2017' was removed from the transfer list.
+(N) 2020-12-29T17:14:49 - 'C++ PROGRAMMING BOOK BY DS MALIK' was removed from the transfer list and hard disk.
+(I) 2020-12-29T17:14:50 - UPnP / NAT-PMP support [OFF]

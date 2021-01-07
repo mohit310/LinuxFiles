@@ -1,0 +1,19 @@
+help
+devices
+device list
+exit
+device list
+help
+station list
+station wlan0 show
+help
+known-networks list
+dhclient
+device list
+help
+station list
+station wlan0 connect Patagonia 
+help
+station wlan get-networks
+station wlan0 get-networks
+station wlan0 scan

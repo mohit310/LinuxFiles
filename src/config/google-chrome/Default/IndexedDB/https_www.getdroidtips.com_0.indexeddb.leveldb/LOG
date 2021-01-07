@@ -1,0 +1,5 @@
+2020/12/20-02:01:33.122 ddff Reusing MANIFEST /home/mk/.config/google-chrome/Default/IndexedDB/https_www.getdroidtips.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/20-02:01:37.229 dc15 Level-0 table #5: started
+2020/12/20-02:01:37.239 dc15 Level-0 table #5: 350 bytes OK
+2020/12/20-02:01:37.247 dc15 Delete type=0 #3
+2020/12/20-02:01:37.248 dc15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
