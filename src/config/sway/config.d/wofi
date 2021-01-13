@@ -1,0 +1,1 @@
+set $menu wofi --allow-images --show drun | xargs swaymsg exec --
