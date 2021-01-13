@@ -1,19 +1,18 @@
 font:
   normal:
-    family: Terminus
+    family: Roboto Mono
     style: Regular
 
   bold:
-    family: Terminus
+    family: Roboto Mono
     style: Bold
 
   italic:
-    family: Terminus
+    family: Roboto Mono
     style: Italic
 
   bold_italic:
-    family: Terminus
+    family: Roboto Mono
     style: Bold Italic
 
-  size: 12
-
+  size: 11

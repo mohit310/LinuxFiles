@@ -15,4 +15,5 @@
 # font pango:Noto Mono Regular 13
 # font pango:DroidSansMono 13
 #font pango:Ubuntu Mono Regular 11
-font pango:Terminus 12
+#font pango:Roboto Mono Regular 11
+font pango:Ubuntu Condensed 11
