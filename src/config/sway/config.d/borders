@@ -1,8 +1,1 @@
-# Window borders
-default_border pixel 1
-default_floating_border normal
-hide_edge_borders smart
-
-smart_gaps on
-gaps inner 10
-smart_borders on
+default_border pixel 3
