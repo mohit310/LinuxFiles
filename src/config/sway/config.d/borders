@@ -1,1 +1,3 @@
 default_border pixel 3
+titlebar_border_thickness 1
+titlebar_padding 5 1 
