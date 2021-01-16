@@ -1,0 +1,5 @@
+set $screenshot grim ~/Pictures/screenshots/scrn-$(date +"%Y-%m-%d-%H-%M-%S").png
+set $screenclip slurp | grim -g - ~/Pictures/screenshots/scrn-$(date +"%Y-%m-%d-%H-%M-%S").png
+bindsym $mod+Print exec $screenshot
+bindsym $mod+Shift+Print exec $screenclip
+
