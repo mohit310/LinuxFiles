@@ -1,1 +1,2 @@
-output eDP1 res 1920x1080
+output eDP-1 res 1920x1080
+#output eDP-1 scale 2.0

@@ -11,7 +11,8 @@
         "format-icons": ["", "", "", "", ""]
     },
     "clock": {
-        "format-alt": "{:%a, %d. %b  %H:%M}"
+        "format": "{:%a, %d. %b  %H:%M}",
+        "on-click": "/usr/bin/firefox --new-window https://calendar.google.com/calendar/u/0/r/month"
     },
     "backlight": {
         "device": "intel_backlight",
