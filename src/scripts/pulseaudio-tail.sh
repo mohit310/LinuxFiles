@@ -4,12 +4,12 @@ sink=0
 
 volume_up() {
 #    pactl set-sink-volume $sink +1%
-    pamixer --sink $sink -i 20000
+    pamixer --sink $sink -i 20
 }
 
 volume_down() {
 #    pactl set-sink-volume $sink -1%
-    pamixer --sink $sink -d 20000
+    pamixer --sink $sink -d 20
 }
 
 volume_mute() {

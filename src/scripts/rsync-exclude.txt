@@ -1,0 +1,15 @@
+.cache*
+.local*
+.mozilla*
+.PyCharm*
+.IdeaIC*
+.vivaldi*
+.config*
+.m2*
+.gradle*
+.npm*
+.stuff*
+/Videos
+/installs
+/Downloads
+/shares
