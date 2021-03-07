@@ -1,7 +1,0 @@
-# <Laptop model description goes here>
-evdev:name:ETPS/2 Elantech Touchpad:dmi:bvnLENOVO:bvrCDCN52WW:bd09/01/2016:svnLENOVO:pn80NV:pvrLenovoideapadY700-15ISK:rvnLENOVO:rnAllsparks5A:rvrSDK0J40709WIN:cvnLENOVO:ct10:cvrLenovoideapadY700-15ISK:*
- EVDEV_ABS_00=0:3116:31
- EVDEV_ABS_01=1:2019:31
- EVDEV_ABS_35=0:3116:31
- EVDEV_ABS_36=1:2019:31
-
