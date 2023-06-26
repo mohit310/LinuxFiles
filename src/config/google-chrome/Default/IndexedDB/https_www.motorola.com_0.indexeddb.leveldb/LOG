@@ -1,5 +1,0 @@
-2020/12/20-02:05:58.613 dde6 Reusing MANIFEST /home/mk/.config/google-chrome/Default/IndexedDB/https_www.motorola.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/20-02:06:58.451 e383 Level-0 table #5: started
-2020/12/20-02:06:58.461 e383 Level-0 table #5: 23510 bytes OK
-2020/12/20-02:06:58.473 e383 Delete type=0 #3
-2020/12/20-02:06:58.474 e383 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

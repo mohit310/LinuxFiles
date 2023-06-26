@@ -1,4 +1,0 @@
-# vim:ft=conf
-for_window [class="(?i)mpv"] floating enable
-for_window [class="Firefox"] border pixel 0
-
